@@ -1,0 +1,3005 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9734367,
+                    48.0836157
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/skagit-regional-health-6\">Skagit Regional Health|<span class=\"name2\">Benson Family Medicine<\/span><\/a>",
+                "description": "110 N LaVenture Rd Mount Vernon, Washington 98273 ",
+                "nid": 338889,
+                "nid_rendered": 338889,
+                "field_gsl_org_number": 338889,
+                "field_gsl_org_number_rendered": 338889,
+                "gsl_feature_filter_list": 338889,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 338889,
+                "gsl_props_phone_rendered": "(360) 399-7700",
+                "gsl_props_web": 338889,
+                "gsl_props_web_rendered": "https:\/\/www.skagitregionalhealth.org\/home\/location-landing\/skagit-regional-clinics-benson-family-medicine||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9734367,
+                    48.0836157
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/skagit-regional-health-5\">Skagit Regional Health|<span class=\"name2\">Granite Falls Family Medicine<\/span><\/a>",
+                "description": "405 W Stanley Granite Falls, Washington 98252 ",
+                "nid": 338888,
+                "nid_rendered": 338888,
+                "field_gsl_org_number": 338888,
+                "field_gsl_org_number_rendered": 338888,
+                "gsl_feature_filter_list": 338888,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 338888,
+                "gsl_props_phone_rendered": "(360) 691-2419",
+                "gsl_props_web": 338888,
+                "gsl_props_web_rendered": "https:\/\/www.skagitregionalhealth.org\/home\/location-landing\/skagit-regional-health-granite-falls-family-medicine||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.6083557,
+                    48.2532479
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/skagit-regional-health-4\">Skagit Regional Health|<span class=\"name2\">Darrington Family Medicine<\/span><\/a>",
+                "description": "1190 Riddle St Darrington, Washington 98241 ",
+                "nid": 338887,
+                "nid_rendered": 338887,
+                "field_gsl_org_number": 338887,
+                "field_gsl_org_number_rendered": 338887,
+                "gsl_feature_filter_list": 338887,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 338887,
+                "gsl_props_phone_rendered": "(360) 436-1055",
+                "gsl_props_web": 338887,
+                "gsl_props_web_rendered": "https:\/\/www.skagitregionalhealth.org\/home\/location-landing\/skagit-regional-health-darrington-family-medicine||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.1283319,
+                    48.1802744
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/skagit-regional-health-2\">Skagit Regional Health|<span class=\"name2\">Arlington Womens Health<\/span><\/a>",
+                "description": "903 Medical Center Dr Arlington, Washington 98223 ",
+                "nid": 338885,
+                "nid_rendered": 338885,
+                "field_gsl_org_number": 338885,
+                "field_gsl_org_number_rendered": 338885,
+                "gsl_feature_filter_list": 338885,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 338885,
+                "gsl_props_phone_rendered": "(360) 435-0242",
+                "gsl_props_web": 338885,
+                "gsl_props_web_rendered": "https:\/\/www.skagitregionalhealth.org\/home\/location-landing\/skagit-regional-health-arlington-women's-health||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.1283319,
+                    48.1802744
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/skagit-regional-health-1\">Skagit Regional Health|<span class=\"name2\">Arlington Family Medicine<\/span><\/a>",
+                "description": "7530 204th St NE Arlington, Washington 98223 ",
+                "nid": 338884,
+                "nid_rendered": 338884,
+                "field_gsl_org_number": 338884,
+                "field_gsl_org_number_rendered": 338884,
+                "gsl_feature_filter_list": 338884,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 338884,
+                "gsl_props_phone_rendered": "(360) 435-8810",
+                "gsl_props_web": 338884,
+                "gsl_props_web_rendered": "https:\/\/www.skagitregionalhealth.org\/home\/location-landing\/skagit-regional-health-arlington-family-medicine||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8235099,
+                    47.0430054
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/sea-mar-community-health-centers-26\">Sea Mar Community Health Centers|<span class=\"name2\">East Vancouver Medical Clinic<\/span><\/a>",
+                "description": "79005 SE 34th St Vancouver, Washington 98661 ",
+                "nid": 338830,
+                "nid_rendered": 338830,
+                "field_gsl_org_number": 338830,
+                "field_gsl_org_number_rendered": 338830,
+                "gsl_feature_filter_list": 338830,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 338830,
+                "gsl_props_phone_rendered": "(360) 726-6720",
+                "gsl_props_web": 338830,
+                "gsl_props_web_rendered": "https:\/\/www.seamar.org\/clark-medical-vancouver-eastvancouver.html||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8235099,
+                    47.0430054
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/sea-mar-community-health-centers-25\">Sea Mar Community Health Centers|<span class=\"name2\">Marysville Medical Clinic<\/span><\/a>",
+                "description": "9710 State Ave Marysville, Washington 98270 ",
+                "nid": 338829,
+                "nid_rendered": 338829,
+                "field_gsl_org_number": 338829,
+                "field_gsl_org_number_rendered": 338829,
+                "gsl_feature_filter_list": 338829,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 338829,
+                "gsl_props_phone_rendered": "(360) 653-1742",
+                "gsl_props_web": 338829,
+                "gsl_props_web_rendered": "https:\/\/www.seamar.org\/snohomish-medical-marysville.html||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8235099,
+                    47.0430054
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/sea-mar-community-health-centers-24\">Sea Mar Community Health Centers|<span class=\"name2\">Lacey Medical Clinic<\/span><\/a>",
+                "description": "669 Woodland Sq Loop SE Lacey, Washington 98503 ",
+                "nid": 338828,
+                "nid_rendered": 338828,
+                "field_gsl_org_number": 338828,
+                "field_gsl_org_number_rendered": 338828,
+                "gsl_feature_filter_list": 338828,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 338828,
+                "gsl_props_phone_rendered": "(360) 359-4840",
+                "gsl_props_web": 338828,
+                "gsl_props_web_rendered": "https:\/\/www.seamar.org\/thurston-medical-lacey.html||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2055886,
+                    47.9069659
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/sea-mar-community-health-centers-23\">Sea Mar Community Health Centers|<span class=\"name2\">Federal Way Medical Clinic<\/span><\/a>",
+                "description": "31405 18th Ave S Federal Way, Washington 98003 ",
+                "nid": 338784,
+                "nid_rendered": 338784,
+                "field_gsl_org_number": 338784,
+                "field_gsl_org_number_rendered": 338784,
+                "gsl_feature_filter_list": 338784,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 338784,
+                "gsl_props_phone_rendered": "(253) 681-6600",
+                "gsl_props_web": 338784,
+                "gsl_props_web_rendered": "https:\/\/www.seamar.org\/king-medical-federalway.html||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.4073974,
+                    47.0035887
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/sea-mar-community-health-centers-22\">Sea Mar Community Health Centers|<span class=\"name2\">Everett Medical Clinic<\/span><\/a>",
+                "description": "1920 100th St SE  Everett, Washington 98208 ",
+                "nid": 338783,
+                "nid_rendered": 338783,
+                "field_gsl_org_number": 338783,
+                "field_gsl_org_number_rendered": 338783,
+                "gsl_feature_filter_list": 338783,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 338783,
+                "gsl_props_phone_rendered": "(425) 312-0202",
+                "gsl_props_web": 338783,
+                "gsl_props_web_rendered": "https:\/\/www.seamar.org\/snohomish-medical-everett.html||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2982757,
+                    47.3843635
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/sea-mar-community-health-centers-21\">Sea Mar Community Health Centers|<span class=\"name2\">Elma Medical Clinic<\/span><\/a>",
+                "description": "515 W Main St Elma, Washington 98541 ",
+                "nid": 338782,
+                "nid_rendered": 338782,
+                "field_gsl_org_number": 338782,
+                "field_gsl_org_number_rendered": 338782,
+                "gsl_feature_filter_list": 338782,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 338782,
+                "gsl_props_phone_rendered": "(360) 861-8700",
+                "gsl_props_web": 338782,
+                "gsl_props_web_rendered": "https:\/\/www.seamar.org\/gh-medical-elma.html||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.554214,
+                    47.123791
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/sea-mar-community-health-centers-19\">Sea Mar Community Health Centers|<span class=\"name2\">Battle Ground Medical Clinic<\/span><\/a>",
+                "description": "118 S Parkway Ave Battle Ground, Washington 98604 ",
+                "nid": 338748,
+                "nid_rendered": 338748,
+                "field_gsl_org_number": 338748,
+                "field_gsl_org_number_rendered": 338748,
+                "gsl_feature_filter_list": 338748,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 338748,
+                "gsl_props_phone_rendered": "(360) 342-8060",
+                "gsl_props_web": 338748,
+                "gsl_props_web_rendered": "https:\/\/www.seamar.org\/clark-medical-battle-ground.html||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.269242,
+                    47.5196191
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/neighborcare-health-12\">Neighborcare Health|<span class=\"name2\">Vashon Clinic<\/span><\/a>",
+                "description": "10030 SW 210th St Vashon, Washington 98070 ",
+                "nid": 335107,
+                "nid_rendered": 335107,
+                "field_gsl_org_number": 335107,
+                "field_gsl_org_number_rendered": 335107,
+                "gsl_feature_filter_list": 335107,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 335107,
+                "gsl_props_phone_rendered": "(206) 463-3671",
+                "gsl_props_web": 335107,
+                "gsl_props_web_rendered": "https:\/\/neighborcare.org\/clinics\/vashon||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3454918,
+                    47.7285127
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/neighborcare-health-11\">Neighborcare Health|<span class=\"name2\">St Vincent de Paul - Aurora Clinic<\/span><\/a>",
+                "description": "13555 Aurora Ave N Seattle, Washington 98133 ",
+                "nid": 335106,
+                "nid_rendered": 335106,
+                "field_gsl_org_number": 335106,
+                "field_gsl_org_number_rendered": 335106,
+                "gsl_feature_filter_list": 335106,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 335106,
+                "gsl_props_phone_rendered": "(206) 548-7600",
+                "gsl_props_web": 335106,
+                "gsl_props_web_rendered": "https:\/\/neighborcare.org\/clinics\/st-vincent-de-paul-aurora||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3453187,
+                    47.5001287
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/healthpoint-10\">HealthPoint|<span class=\"name2\">Evergreen Campus<\/span><\/a>",
+                "description": "830 SW 116th St Seattle, Washington 98146 ",
+                "nid": 335057,
+                "nid_rendered": 335057,
+                "field_gsl_org_number": 335057,
+                "field_gsl_org_number_rendered": 335057,
+                "gsl_feature_filter_list": 335057,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test",
+                "gsl_props_phone": 335057,
+                "gsl_props_phone_rendered": "(253) 835-2615",
+                "gsl_props_web": 335057,
+                "gsl_props_web_rendered": "http:\/\/www.healthpointchc.org\/health-centers\/evergreen-campus||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.340481,
+                    47.7882741
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/community-health-center-snohomish-county-5\">Community Health Center of Snohomish County|<span class=\"name2\">Lynnwood Clinic<\/span><\/a>",
+                "description": "4111 194th St SW Lynnwood, Washington 98036 ",
+                "nid": 333902,
+                "nid_rendered": 333902,
+                "field_gsl_org_number": 333902,
+                "field_gsl_org_number_rendered": 333902,
+                "gsl_feature_filter_list": 333902,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 333902,
+                "gsl_props_phone_rendered": "(425) 835-5200",
+                "gsl_props_web": 333902,
+                "gsl_props_web_rendered": "https:\/\/www.chcsno.org\/location\/lynnwood-clinic||",
+                "fees": "lowcost,Fee,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.1996732,
+                    48.0049699
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/community-health-center-snohomish-county-4\">Community Health Center of Snohomish County|<span class=\"name2\">Everett-North Clinic<\/span><\/a>",
+                "description": "1424 Broadway Everett, Washington 98201 ",
+                "nid": 333901,
+                "nid_rendered": 333901,
+                "field_gsl_org_number": 333901,
+                "field_gsl_org_number_rendered": 333901,
+                "gsl_feature_filter_list": 333901,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 333901,
+                "gsl_props_phone_rendered": "(425) 789-2000",
+                "gsl_props_web": 333901,
+                "gsl_props_web_rendered": "https:\/\/www.chcsno.org\/location\/everett-north-clinic||",
+                "fees": "lowcost,Fee,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2477233,
+                    47.8972813
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/community-health-center-snohomish-county-3\">Community Health Center of Snohomish County|<span class=\"name2\">Everett-College Clinic<\/span><\/a>",
+                "description": "930 N Broadway Everett, Washington 98201 ",
+                "nid": 333900,
+                "nid_rendered": 333900,
+                "field_gsl_org_number": 333900,
+                "field_gsl_org_number_rendered": 333900,
+                "gsl_feature_filter_list": 333900,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 333900,
+                "gsl_props_phone_rendered": "(425) 595-3900",
+                "gsl_props_web": 333900,
+                "gsl_props_web_rendered": "https:\/\/www.chcsno.org\/location\/everett-college-clinic||",
+                "fees": "lowcost,Fee,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.210301,
+                    47.9617896
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/community-health-center-snohomish-county-2\">Community Health Center of Snohomish County|<span class=\"name2\">Everett-Central Clinic<\/span><\/a>",
+                "description": "4201 Rucker Ave Everett, Washington 98203 ",
+                "nid": 333899,
+                "nid_rendered": 333899,
+                "field_gsl_org_number": 333899,
+                "field_gsl_org_number_rendered": 333899,
+                "gsl_feature_filter_list": 333899,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 333899,
+                "gsl_props_phone_rendered": "(425) 382-4000",
+                "gsl_props_web": 333899,
+                "gsl_props_web_rendered": "https:\/\/www.chcsno.org\/location\/everett-central-clinic||",
+                "fees": "lowcost,Fee,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.1180986,
+                    48.1896048
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/community-health-center-snohomish-county-1\">Community Health Center of Snohomish County|<span class=\"name2\">Arlington Clinic<\/span><\/a>",
+                "description": "326 S Stillaguamish Ave Arlington, Washington 98223 ",
+                "nid": 333898,
+                "nid_rendered": 333898,
+                "field_gsl_org_number": 333898,
+                "field_gsl_org_number_rendered": 333898,
+                "gsl_feature_filter_list": 333898,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 333898,
+                "gsl_props_phone_rendered": "(360) 572-5400",
+                "gsl_props_web": 333898,
+                "gsl_props_web_rendered": "https:\/\/www.chcsno.org\/location\/arlington-clinic||",
+                "fees": "lowcost,Fee,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3854484,
+                    47.5797575
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/medical-arts-associates\">Medical Arts Associates|<\/a>",
+                "description": "2641 42nd Ave SW Seattle, Washington 98116 ",
+                "nid": 333889,
+                "nid_rendered": 333889,
+                "field_gsl_org_number": 333889,
+                "field_gsl_org_number_rendered": 333889,
+                "gsl_feature_filter_list": 333889,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 333889,
+                "gsl_props_phone_rendered": "(425) 454-8191",
+                "gsl_props_web": 333889,
+                "gsl_props_web_rendered": "www.medicalartsps.com||",
+                "fees": "Fee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.1525695,
+                    47.578618
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/university-washington-medicine\">University of Washington Medicine|<span class=\"name2\">UW Neighborhood Factoria Clinic<\/span><\/a>",
+                "description": "3231 SE 36th St Bellevue, Washington 98006 ",
+                "nid": 330216,
+                "nid_rendered": 330216,
+                "field_gsl_org_number": 330216,
+                "field_gsl_org_number_rendered": 330216,
+                "gsl_feature_filter_list": 330216,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 330216,
+                "gsl_props_phone_rendered": "(425) 957-9000",
+                "gsl_props_web": 330216,
+                "gsl_props_web_rendered": "uwmedicine.org||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicare Accepted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2964235,
+                    47.6087583
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/queerdoc\">QueerDoc|<\/a>",
+                "description": "123 Rainbow Ave Seattle, Washington 98122 ",
+                "nid": 328751,
+                "nid_rendered": 328751,
+                "field_gsl_org_number": 328751,
+                "field_gsl_org_number_rendered": 328751,
+                "gsl_feature_filter_list": 328751,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis C Test,HEPATITIS TESTS*Hepatitis B Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,STD TESTS*Herpes Test,STD TESTS*Chlamydia Test,HIV TESTS*Conventional Blood HIV Test",
+                "gsl_props_phone": 328751,
+                "gsl_props_phone_rendered": "(541) 604-8276",
+                "gsl_props_web": 328751,
+                "gsl_props_web_rendered": "https:\/\/queerdoc.com\/||",
+                "fees": "lowcost,Fee,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4338914,
+                    47.0860927
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/community-health-care-4\">Community Health Care |<span class=\"name2\">Spanaway Family Medical Clinic<\/span><\/a>",
+                "description": "134 188th St S Spanaway, Washington 98387 ",
+                "nid": 328592,
+                "nid_rendered": 328592,
+                "field_gsl_org_number": 328592,
+                "field_gsl_org_number_rendered": 328592,
+                "gsl_feature_filter_list": 328592,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 328592,
+                "gsl_props_phone_rendered": "(253) 847-2304",
+                "gsl_props_web": 328592,
+                "gsl_props_web_rendered": "https:\/\/www.commhealth.org\/services\/locations-and-hours||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3755354,
+                    47.6634505
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/uw-neighborhood-clinics\">UW Neighborhood Clinics|<span class=\"name2\">Ballard Clinic - Primary Care<\/span><\/a>",
+                "description": "1455 NW Leary Way Seattle, Washington 98107 ",
+                "nid": 328519,
+                "nid_rendered": 328519,
+                "field_gsl_org_number": 328519,
+                "field_gsl_org_number_rendered": 328519,
+                "gsl_feature_filter_list": 328519,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 328519,
+                "gsl_props_phone_rendered": "(206) 789-7777",
+                "gsl_props_web": 328519,
+                "gsl_props_web_rendered": "https:\/\/www.uwmedicine.org\/locations\/primary-care-ballard||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2477233,
+                    47.8972813
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/community-health-center-snohomish-county-0\">Community Health Center of Snohomish County|<span class=\"name2\">Everett-South Clinic<\/span><\/a>",
+                "description": "1019 112th St SW Everett, Washington 98204 ",
+                "nid": 328480,
+                "nid_rendered": 328480,
+                "field_gsl_org_number": 328480,
+                "field_gsl_org_number_rendered": 328480,
+                "gsl_feature_filter_list": 328480,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 328480,
+                "gsl_props_phone_rendered": "(425) 551-6200",
+                "gsl_props_web": 328480,
+                "gsl_props_web_rendered": "https:\/\/www.chcsno.org\/location\/everett-south-clinic||",
+                "fees": "lowcost,Fee,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3179539,
+                    47.3019907
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/public-health-seattle-and-king-county\">Public Health Seattle and King County|<span class=\"name2\">Federal Way Public Health Center <\/span><\/a>",
+                "description": "33431 13th Pl S Federal Way, Washington 98003 ",
+                "nid": 328162,
+                "nid_rendered": 328162,
+                "field_gsl_org_number": 328162,
+                "field_gsl_org_number_rendered": 117445,
+                "gsl_feature_filter_list": 328162,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test",
+                "gsl_props_phone": 328162,
+                "gsl_props_phone_rendered": "(206) 477-6800",
+                "gsl_props_web": 328162,
+                "gsl_props_web_rendered": "https:\/\/www.kingcounty.gov\/depts\/health\/locations\/family-planning.aspx||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8866928,
+                    47.0384391
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/capital-eastside-family-practice\">Capital Eastside Family Practice|<\/a>",
+                "description": "1100 Eastside St SE Olympia, Washington 98501 ",
+                "nid": 327920,
+                "nid_rendered": 327920,
+                "field_gsl_org_number": 327920,
+                "field_gsl_org_number_rendered": 117273,
+                "gsl_feature_filter_list": 327920,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine,VACCINES*HPV Vaccine,HEPATITIS TESTS*Free Hepatitis B Test, HEPATITIS TESTS*Free Hepatitis C Test, HIV TESTS*Free HIV Test, STD TESTS*Free STD Test",
+                "gsl_props_phone": 327920,
+                "gsl_props_phone_rendered": "(360) 943-5127",
+                "gsl_props_web": 327920,
+                "gsl_props_web_rendered": "capitalphysicianservices.com\/family-practice-2\/contact\/||",
+                "fees": "lowcost,Free Hepatitis B Testing,Free Hepatitis C Testing,Free HIV Testing,Free STD Testing,Free TB Testing,No Fee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3192747,
+                    47.6620742
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/3w-medical-women\">3W Medical for Women|<\/a>",
+                "description": "4528 8th Ave NE Seattle, Washington 98105 ",
+                "nid": 327756,
+                "nid_rendered": 327756,
+                "field_gsl_org_number": 327756,
+                "field_gsl_org_number_rendered": 117196,
+                "gsl_feature_filter_list": 327756,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test",
+                "gsl_props_phone": 327756,
+                "gsl_props_phone_rendered": "(206) 588-0311",
+                "gsl_props_web": 327756,
+                "gsl_props_web_rendered": "https:\/\/www.3wmedical.org||",
+                "fees": "Donations Accepted,Fee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3040512,
+                    47.6561526
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/university-washington-5\">University of Washington|<span class=\"name2\">Hall Health Center<\/span><\/a>",
+                "description": "4060 E Stevens Way NE Seattle, Washington 98195 ",
+                "nid": 327101,
+                "nid_rendered": 327101,
+                "field_gsl_org_number": 327101,
+                "field_gsl_org_number_rendered": 116482,
+                "gsl_feature_filter_list": 327101,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 327101,
+                "gsl_props_phone_rendered": "(206) 685-1011",
+                "gsl_props_web": 327101,
+                "gsl_props_web_rendered": "http:\/\/depts.washington.edu\/hhpccweb\/||",
+                "fees": "lowcost,Fee,Insurance Accepted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.340481,
+                    47.7882741
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/community-health-center-snohomish-county\">Community Health Center of Snohomish County|<span class=\"name2\">Edmonds Clinic<\/span><\/a>",
+                "description": "23320 Hwy 99 Edmonds, Washington 98026 ",
+                "nid": 327050,
+                "nid_rendered": 327050,
+                "field_gsl_org_number": 327050,
+                "field_gsl_org_number_rendered": 116424,
+                "gsl_feature_filter_list": 327050,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 327050,
+                "gsl_props_phone_rendered": "(425) 640-5500",
+                "gsl_props_web": 327050,
+                "gsl_props_web_rendered": "https:\/\/www.chcsno.org\/location\/edmonds-clinic||",
+                "fees": "lowcost,Fee,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2055761,
+                    47.3874396
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/family-care-kent\">Family Care of Kent|<\/a>",
+                "description": "10024 SE 240th St Kent, Washington 98031 ",
+                "nid": 327055,
+                "nid_rendered": 327055,
+                "field_gsl_org_number": 327055,
+                "field_gsl_org_number_rendered": 116441,
+                "gsl_feature_filter_list": 327055,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test",
+                "gsl_props_phone": 327055,
+                "gsl_props_phone_rendered": "(253) 859-2273",
+                "gsl_props_web": 327055,
+                "gsl_props_web_rendered": "https:\/\/www.familycareofkent.com\/||",
+                "fees": "lowcost,Fee,Insurance Accepted,PrEP for uninsured"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3082296,
+                    47.6498722
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/university-washington-medical-center-0\">University of Washington Medical Center|<span class=\"name2\">Infectious Disease<\/span><\/a>",
+                "description": "1959 NE Pacific St Seattle, Washington 98195 ",
+                "nid": 326993,
+                "nid_rendered": 326993,
+                "field_gsl_org_number": 326993,
+                "field_gsl_org_number_rendered": 116418,
+                "gsl_feature_filter_list": 326993,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test",
+                "gsl_props_phone": 326993,
+                "gsl_props_phone_rendered": "(206) 597-6500",
+                "gsl_props_web": 326993,
+                "gsl_props_web_rendered": "https:\/\/www.uwmedicine.org\/locations\/allergy-asthma-and-immunology-uwmc||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicare Accepted,PrEP for uninsured"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1100729,
+                    48.0889705
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/jamestown-sklallam-tribe\">Jamestown SKlallam Tribe|<span class=\"name2\">Jamestown Family Health Clinic<\/span><\/a>",
+                "description": "808 N 5th Ave Sequim, Washington 98382 ",
+                "nid": 327319,
+                "nid_rendered": 327319,
+                "field_gsl_org_number": 327319,
+                "field_gsl_org_number_rendered": 116680,
+                "gsl_feature_filter_list": 327319,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 327319,
+                "gsl_props_phone_rendered": "(360) 683-5900",
+                "gsl_props_web": 327319,
+                "gsl_props_web_rendered": "https:\/\/jamestowntribe.org\/program-staff\/health-department||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4338167,
+                    47.1543169
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/community-health-care-3\">Community Health Care|<span class=\"name2\">Parkland Family Medical Center<\/span><\/a>",
+                "description": "11225 Pacific Ave Tacoma, Washington 98444 ",
+                "nid": 327116,
+                "nid_rendered": 327116,
+                "field_gsl_org_number": 327116,
+                "field_gsl_org_number_rendered": 116447,
+                "gsl_feature_filter_list": 327116,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 327116,
+                "gsl_props_phone_rendered": "(253) 536-2020",
+                "gsl_props_web": 327116,
+                "gsl_props_web_rendered": "https:\/\/www.commhealth.org\/services\/medical-clinics\/parkland-family-medical-clinic\/||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3204587,
+                    47.6145237
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/immediate-clinic\">Immediate Clinic|<span class=\"name2\">Capitol Hill Urgent Care<\/span><\/a>",
+                "description": "1512 Broadway Seattle, Washington 98122 ",
+                "nid": 326998,
+                "nid_rendered": 326998,
+                "field_gsl_org_number": 326998,
+                "field_gsl_org_number_rendered": 116379,
+                "gsl_feature_filter_list": 326998,
+                "gsl_feature_filter_list_rendered": "STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test",
+                "gsl_props_phone": 326998,
+                "gsl_props_phone_rendered": "(206) 323-4000",
+                "gsl_props_web": 326998,
+                "gsl_props_web_rendered": "https:\/\/www.immediateclinic.com\/capitol-hill-urgent-care||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicare Accepted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6265138,
+                    47.5817776
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/peninsula-community-health-services-0\">Peninsula Community Health Services|<span class=\"name2\">Wheaton Way Medical Clinic<\/span><\/a>",
+                "description": "2508 Wheaton Way Bremerton, Washington 98310 ",
+                "nid": 326995,
+                "nid_rendered": 326995,
+                "field_gsl_org_number": 326995,
+                "field_gsl_org_number_rendered": 116420,
+                "gsl_feature_filter_list": 326995,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test",
+                "gsl_props_phone": 326995,
+                "gsl_props_phone_rendered": "(360) 377-3776",
+                "gsl_props_web": 326995,
+                "gsl_props_web_rendered": "http:\/\/www.pchsweb.org\/locations\/wheaton-way-medical-clinic\/||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3365653,
+                    47.6127468
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/seattle-infectious-disease-clinic\">Seattle Infectious Disease Clinic|<\/a>",
+                "description": "509 Olive Wy Seattle, Washington 98101 ",
+                "nid": 327028,
+                "nid_rendered": 327028,
+                "field_gsl_org_number": 327028,
+                "field_gsl_org_number_rendered": 116394,
+                "gsl_feature_filter_list": 327028,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine,HIV TESTS*Free HIV Test",
+                "gsl_props_phone": 327028,
+                "gsl_props_phone_rendered": "(206) 682-3444",
+                "gsl_props_web": 327028,
+                "gsl_props_web_rendered": "http:\/\/www.seattleidc.com\/||",
+                "fees": "lowcost,Fee,Free HIV Testing,Insurance Accepted,Medicaid Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3251025,
+                    47.6087452
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/peter-shalit-and-associtates\">Peter Shalit and Associtates|<\/a>",
+                "description": "901 Boren Ave Seattle, Washington 98104 ",
+                "nid": 327485,
+                "nid_rendered": 327485,
+                "field_gsl_org_number": 327485,
+                "field_gsl_org_number_rendered": 116957,
+                "gsl_feature_filter_list": 327485,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test",
+                "gsl_props_phone": 327485,
+                "gsl_props_phone_rendered": "(206) 624-0688",
+                "gsl_props_web": 327485,
+                "gsl_props_web_rendered": "https:\/\/www.doctorshalit.com||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicare Accepted,PrEP for uninsured"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.1781668,
+                    48.1531187
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/skagit-valley-hospital\">Skagit Valley Hospital|<span class=\"name2\">Skagit Regional Clinics - Smokey Point<\/span><\/a>",
+                "description": "3823 172nd St NE Arlington, Washington 98223 ",
+                "nid": 327132,
+                "nid_rendered": 327132,
+                "field_gsl_org_number": 327132,
+                "field_gsl_org_number_rendered": 116567,
+                "gsl_feature_filter_list": 327132,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test",
+                "gsl_props_phone": 327132,
+                "gsl_props_phone_rendered": "(360) 657-8700",
+                "gsl_props_web": 327132,
+                "gsl_props_web_rendered": "skagitregionalhealth.org||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3290359,
+                    47.6074762
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/polyclinic\">Polyclinic|<span class=\"name2\">Madison Center Infectious Diseases<\/span><\/a>",
+                "description": "904 7th Ave Seattle, Washington 98104 ",
+                "nid": 327026,
+                "nid_rendered": 327026,
+                "field_gsl_org_number": 327026,
+                "field_gsl_org_number_rendered": 116392,
+                "gsl_feature_filter_list": 327026,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 327026,
+                "gsl_props_phone_rendered": "(206) 860-4447",
+                "gsl_props_web": 327026,
+                "gsl_props_web_rendered": "https:\/\/polyclinic.com\/infectious-disease||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3290359,
+                    47.6074762
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/kelley-ross-pharmacy-0\">Kelley-Ross Pharmacy |<\/a>",
+                "description": "904 7th Ave Seattle, Washington 98104 ",
+                "nid": 322657,
+                "nid_rendered": 322657,
+                "field_gsl_org_number": 322657,
+                "field_gsl_org_number_rendered": 114080,
+                "gsl_feature_filter_list": 322657,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 322657,
+                "gsl_props_phone_rendered": "(206) 324-6990",
+                "gsl_props_web": 322657,
+                "gsl_props_web_rendered": "https:\/\/www.kelley-ross.com\/polyclinic\/prep||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,PrEP for uninsured"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2234266,
+                    47.3162126
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/public-health-seattle-and-king-county-1\">Public Health Seattle and King County|<span class=\"name2\">Auburn Public Health Center<\/span><\/a>",
+                "description": "901 Auburn Way N Auburn, Washington 98002 ",
+                "nid": 308664,
+                "nid_rendered": 308664,
+                "field_gsl_org_number": 308664,
+                "field_gsl_org_number_rendered": 17947,
+                "gsl_feature_filter_list": 308664,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 308664,
+                "gsl_props_phone_rendered": "(206) 477-0600",
+                "gsl_props_web": 308664,
+                "gsl_props_web_rendered": "www.kingcounty.gov\/depts\/health\/locations\/auburn.aspx||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.1497262,
+                    47.5813311
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/public-health-seattle-and-king-county-4\">Public Health-Seattle and King County|<span class=\"name2\">Eastgate Public Health Center<\/span><\/a>",
+                "description": "14350 SE Eastgate Way Bellevue, Washington 98007 ",
+                "nid": 308623,
+                "nid_rendered": 308623,
+                "field_gsl_org_number": 308623,
+                "field_gsl_org_number_rendered": 17940,
+                "gsl_feature_filter_list": 308623,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine",
+                "gsl_props_phone": 308623,
+                "gsl_props_phone_rendered": "(206) 477-8000",
+                "gsl_props_web": 308623,
+                "gsl_props_web_rendered": "www.kingcounty.gov\/depts\/health\/locations\/eastgate.aspx||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2005214,
+                    47.3709309
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/public-health-seattle-and-king-county-3\">Public Health Seattle and King County|<span class=\"name2\">Kent Public Health Center<\/span><\/a>",
+                "description": "25742 104th Ave SE Kent, Washington 98030 ",
+                "nid": 308583,
+                "nid_rendered": 308583,
+                "field_gsl_org_number": 308583,
+                "field_gsl_org_number_rendered": 17948,
+                "gsl_feature_filter_list": 308583,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 308583,
+                "gsl_props_phone_rendered": "(206) 477-6950",
+                "gsl_props_web": 308583,
+                "gsl_props_web_rendered": "www.kingcounty.gov\/depts\/health\/locations\/kent.aspx||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2351505,
+                    47.3799623
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/sea-mar-community-health-centers-8\">Sea Mar Community Health Centers|<span class=\"name2\">Kent Medical Clinic<\/span><\/a>",
+                "description": "233 2nd Ave S Kent, Washington 98032 ",
+                "nid": 308562,
+                "nid_rendered": 308562,
+                "field_gsl_org_number": 308562,
+                "field_gsl_org_number_rendered": 113230,
+                "gsl_feature_filter_list": 308562,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 308562,
+                "gsl_props_phone_rendered": "(206) 436-6380",
+                "gsl_props_web": 308562,
+                "gsl_props_web_rendered": "http:\/\/www.seamar.org\/king-medical-kent.html||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3146496,
+                    47.5249806
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/sea-mar-community-health-centers-5\">Sea Mar Community Health Centers|<span class=\"name2\">Seattle Medical Clinic<\/span><\/a>",
+                "description": "8720 14th Ave S Seattle, Washington 98108 ",
+                "nid": 308559,
+                "nid_rendered": 308559,
+                "field_gsl_org_number": 308559,
+                "field_gsl_org_number_rendered": 113227,
+                "gsl_feature_filter_list": 308559,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 308559,
+                "gsl_props_phone_rendered": "(206) 762-3730",
+                "gsl_props_web": 308559,
+                "gsl_props_web_rendered": "http:\/\/www.seamar.org\/king-medical-seattle.html||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.353617,
+                    47.515888
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/sea-mar-community-health-centers-6\">Sea Mar Community Health Centers|<span class=\"name2\">White Center Medical Clinic<\/span><\/a>",
+                "description": "9650 15th Ave SW Seattle, Washington 98106 ",
+                "nid": 308560,
+                "nid_rendered": 308560,
+                "field_gsl_org_number": 308560,
+                "field_gsl_org_number_rendered": 113228,
+                "gsl_feature_filter_list": 308560,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 308560,
+                "gsl_props_phone_rendered": "(206) 965-1000",
+                "gsl_props_web": 308560,
+                "gsl_props_web_rendered": "www.seamar.org\/king-medical-whitecenter.html||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3465543,
+                    47.4730513
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/sea-mar-community-health-centers-7\">Sea Mar Community Health Centers|<span class=\"name2\">Burien Medical Clinic<\/span><\/a>",
+                "description": "14434 Ambaum Blvd SW Burien, Washington 98166 ",
+                "nid": 308561,
+                "nid_rendered": 308561,
+                "field_gsl_org_number": 308561,
+                "field_gsl_org_number_rendered": 113229,
+                "gsl_feature_filter_list": 308561,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 308561,
+                "gsl_props_phone_rendered": "(206) 812-6140",
+                "gsl_props_web": 308561,
+                "gsl_props_web_rendered": "http:\/\/www.seamar.org\/king-medical-burien.html||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.1406525,
+                    47.5755905
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/sea-mar-community-health-centers-4\">Sea Mar Community Health Centers|<span class=\"name2\">Bellevue Medical Clinic<\/span><\/a>",
+                "description": "3801 150th Ave SE Bellevue, Washington 98007 ",
+                "nid": 308558,
+                "nid_rendered": 308558,
+                "field_gsl_org_number": 308558,
+                "field_gsl_org_number_rendered": 113226,
+                "gsl_feature_filter_list": 308558,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Rapid Testing,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 308558,
+                "gsl_props_phone_rendered": "(425) 460-7140",
+                "gsl_props_web": 308558,
+                "gsl_props_web_rendered": "http:\/\/www.seamar.org\/king-medical-bellevue.html||",
+                "fees": "lowcost,Donations Accepted,Insurance Accepted,Medicaid Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2738663,
+                    47.1419499
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/sea-mar-community-health-centers-10\">Sea Mar Community Health Centers|<span class=\"name2\">Puyallup Medical Clinic<\/span><\/a>",
+                "description": "10217 125th St Court E Puyallup, Washington 98374 ",
+                "nid": 308533,
+                "nid_rendered": 308533,
+                "field_gsl_org_number": 308533,
+                "field_gsl_org_number_rendered": 113234,
+                "gsl_feature_filter_list": 308533,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 308533,
+                "gsl_props_phone_rendered": "(253) 864-4550",
+                "gsl_props_web": 308533,
+                "gsl_props_web_rendered": "http:\/\/www.seamar.org\/pierce-medical-puyallup.html||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.554214,
+                    47.123791
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/sea-mar-community-health-centers-9\">Sea Mar Community Health Centers|<span class=\"name2\">Tillicum Medical Clinic<\/span><\/a>",
+                "description": "14916 Washington Ave SW Lakewood, Washington 98498 ",
+                "nid": 308531,
+                "nid_rendered": 308531,
+                "field_gsl_org_number": 308531,
+                "field_gsl_org_number_rendered": 113232,
+                "gsl_feature_filter_list": 308531,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 308531,
+                "gsl_props_phone_rendered": "(253) 280-9890",
+                "gsl_props_web": 308531,
+                "gsl_props_web_rendered": "http:\/\/www.seamar.org\/pierce-medical-tillicum.html||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4577824,
+                    47.2507877
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/sea-mar-community-health-centers-15\">Sea Mar Community Health Centers|<span class=\"name2\">Tacoma Medical Clinic<\/span><\/a>",
+                "description": "1112 S Cushman Ave Tacoma, Washington 98405 ",
+                "nid": 308532,
+                "nid_rendered": 308532,
+                "field_gsl_org_number": 308532,
+                "field_gsl_org_number_rendered": 113233,
+                "gsl_feature_filter_list": 308532,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 308532,
+                "gsl_props_phone_rendered": "(253) 593-2144",
+                "gsl_props_web": 308532,
+                "gsl_props_web_rendered": "http:\/\/www.seamar.org\/pierce-medical-tacoma.html||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9393525,
+                    47.0488161
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/sea-mar-community-health-centers-13\">Sea Mar Community Health Centers|<span class=\"name2\">Olympia Medical Clinic<\/span><\/a>",
+                "description": "3030 Limited Ln NW Olympia, Washington 98502 ",
+                "nid": 308536,
+                "nid_rendered": 308536,
+                "field_gsl_org_number": 308536,
+                "field_gsl_org_number_rendered": 113237,
+                "gsl_feature_filter_list": 308536,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 308536,
+                "gsl_props_phone_rendered": "(360) 491-1399",
+                "gsl_props_web": 308536,
+                "gsl_props_web_rendered": "http:\/\/www.seamar.org\/thurston-medical-olympia.html||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9929242,
+                    47.8507764
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/sea-mar-community-health-centers-12\">Sea Mar Community Health Centers|<span class=\"name2\">Monroe Medical Clinic<\/span><\/a>",
+                "description": "17707 West Main St Monroe, Washington 98272 ",
+                "nid": 308535,
+                "nid_rendered": 308535,
+                "field_gsl_org_number": 308535,
+                "field_gsl_org_number_rendered": 113236,
+                "gsl_feature_filter_list": 308535,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 308535,
+                "gsl_props_phone_rendered": "(360) 282-3885",
+                "gsl_props_web": 308535,
+                "gsl_props_web_rendered": "http:\/\/www.seamar.org\/snohomish-medical-monroe.html||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4501938,
+                    47.2474672
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/planned-parenthood-great-northwest-and-hawaiian-islands-18\">Planned Parenthood of the Great Northwest and the Hawaiian Islands|<span class=\"name2\">Tacoma Health Center<\/span><\/a>",
+                "description": "1515 Martin Luther King Jr Way Tacoma, Washington 98405 ",
+                "nid": 308486,
+                "nid_rendered": 308486,
+                "field_gsl_org_number": 308486,
+                "field_gsl_org_number_rendered": 6092,
+                "gsl_feature_filter_list": 308486,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 308486,
+                "gsl_props_phone_rendered": "(800) 769-0045",
+                "gsl_props_web": 308486,
+                "gsl_props_web_rendered": "https:\/\/www.plannedparenthood.org\/planned-parenthood-great-northwest-hawaiian-islands||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.1441835,
+                    47.6177316
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/planned-parenthood-great-northwest-and-hawaiian-islands-9\">Planned Parenthood of the Great Northwest and the Hawaiian Islands|<span class=\"name2\">Eastside-Bellevue Health Center<\/span><\/a>",
+                "description": "14730 NE 8th St Bellevue, Washington 98007 ",
+                "nid": 307981,
+                "nid_rendered": 307981,
+                "field_gsl_org_number": 307981,
+                "field_gsl_org_number_rendered": 32460,
+                "gsl_feature_filter_list": 307981,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 307981,
+                "gsl_props_phone_rendered": "(800) 769-0045",
+                "gsl_props_web": 307981,
+                "gsl_props_web_rendered": "https:\/\/www.plannedparenthood.org\/planned-parenthood-great-northwest-hawaiian-islands||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.1740494,
+                    48.0878392
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/planned-parenthood-great-northwest-and-hawaiian-islands-8\">Planned Parenthood of the Great Northwest and the Hawaiian Islands|<span class=\"name2\">Marysville Health Center<\/span><\/a>",
+                "description": "10210 State Ave Marysville, Washington 98271 ",
+                "nid": 307961,
+                "nid_rendered": 307961,
+                "field_gsl_org_number": 307961,
+                "field_gsl_org_number_rendered": 32421,
+                "gsl_feature_filter_list": 307961,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 307961,
+                "gsl_props_phone_rendered": "(800) 769-0045",
+                "gsl_props_web": 307961,
+                "gsl_props_web_rendered": "https:\/\/www.plannedparenthood.org\/planned-parenthood-great-northwest-hawaiian-islands||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3221136,
+                    47.6100869
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/planned-parenthood-great-northwest-and-hawaiian-islands-16\">Planned Parenthood of the Great Northwest and the Hawaiian Islands|<span class=\"name2\">First Hill Health Center<\/span><\/a>",
+                "description": "1229 Madison St Seattle, Washington 98104 ",
+                "nid": 307957,
+                "nid_rendered": 307957,
+                "field_gsl_org_number": 307957,
+                "field_gsl_org_number_rendered": 112789,
+                "gsl_feature_filter_list": 307957,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 307957,
+                "gsl_props_phone_rendered": "(800) 769-0045",
+                "gsl_props_web": 307957,
+                "gsl_props_web_rendered": "https:\/\/www.plannedparenthood.org\/planned-parenthood-great-northwest-hawaiian-islands||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.897517,
+                    47.0437531
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/planned-parenthood-great-northwest-and-hawaiian-islands-15\">Planned Parenthood of the Great Northwest and the Hawaiian Islands|<span class=\"name2\">Olympia Health Center<\/span><\/a>",
+                "description": "402 Legion Way Olympia, Washington 98501 ",
+                "nid": 307958,
+                "nid_rendered": 307958,
+                "field_gsl_org_number": 307958,
+                "field_gsl_org_number_rendered": 32476,
+                "gsl_feature_filter_list": 307958,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 307958,
+                "gsl_props_phone_rendered": "(800) 769-0045",
+                "gsl_props_web": 307958,
+                "gsl_props_web_rendered": "https:\/\/www.plannedparenthood.org\/planned-parenthood-great-northwest-hawaiian-islands||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3351771,
+                    47.8220262
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/planned-parenthood-great-northwest-and-hawaiian-islands-14\">Planned Parenthood of the Great Northwest and the Hawaiian Islands|<span class=\"name2\">Lynnwood Health Center<\/span><\/a>",
+                "description": "19505 76th Ave W Lynnwood, Washington 98036 ",
+                "nid": 307959,
+                "nid_rendered": 307959,
+                "field_gsl_org_number": 307959,
+                "field_gsl_org_number_rendered": 32468,
+                "gsl_feature_filter_list": 307959,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 307959,
+                "gsl_props_phone_rendered": "(800) 769-0045",
+                "gsl_props_web": 307959,
+                "gsl_props_web_rendered": "https:\/\/www.plannedparenthood.org\/planned-parenthood-great-northwest-hawaiian-islands||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2050776,
+                    47.3875108
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/planned-parenthood-great-northwest-and-hawaiian-islands-13\">Planned Parenthood of the Great Northwest and the Hawaiian Islands|<span class=\"name2\">Kent Valley Health Center<\/span><\/a>",
+                "description": "10056 SE 240th Kent, Washington 98031 ",
+                "nid": 307960,
+                "nid_rendered": 307960,
+                "field_gsl_org_number": 307960,
+                "field_gsl_org_number_rendered": 32464,
+                "gsl_feature_filter_list": 307960,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 307960,
+                "gsl_props_phone_rendered": "(800) 769-0045",
+                "gsl_props_web": 307960,
+                "gsl_props_web_rendered": "https:\/\/www.plannedparenthood.org\/planned-parenthood-great-northwest-hawaiian-islands||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3014587,
+                    47.1628718
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/planned-parenthood-great-northwest-and-hawaiian-islands-22\">Planned Parenthood of the Great Northwest and the Hawaiian Islands|<span class=\"name2\">Puyallup Health Center<\/span><\/a>",
+                "description": "702 30th Ave SW Puyallup, Washington 98373 ",
+                "nid": 307948,
+                "nid_rendered": 307948,
+                "field_gsl_org_number": 307948,
+                "field_gsl_org_number_rendered": 110972,
+                "gsl_feature_filter_list": 307948,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 307948,
+                "gsl_props_phone_rendered": "(800) 769-0045",
+                "gsl_props_web": 307948,
+                "gsl_props_web_rendered": "https:\/\/www.plannedparenthood.org\/planned-parenthood-great-northwest-hawaiian-islands||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3449664,
+                    47.5139436
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/planned-parenthood-great-northwest-and-hawaiian-islands-23\">Planned Parenthood of the Great Northwest and the Hawaiian Islands|<span class=\"name2\">White Center - West Seattle Health Center<\/span><\/a>",
+                "description": "9942 8th Ave SW Seattle, Washington 98106 ",
+                "nid": 307949,
+                "nid_rendered": 307949,
+                "field_gsl_org_number": 307949,
+                "field_gsl_org_number_rendered": 110973,
+                "gsl_feature_filter_list": 307949,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 307949,
+                "gsl_props_phone_rendered": "(800) 769-0045",
+                "gsl_props_web": 307949,
+                "gsl_props_web_rendered": "https:\/\/www.plannedparenthood.org\/planned-parenthood-great-northwest-hawaiian-islands||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3333163,
+                    47.7084091
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/planned-parenthood-great-northwest-and-hawaiian-islands-25\">Planned Parenthood of the Great Northwest and the Hawaiian Islands|<span class=\"name2\">Seattle Northgate<\/span><\/a>",
+                "description": "1200 N Northgate Way Seattle, Washington 98133 ",
+                "nid": 307954,
+                "nid_rendered": 307954,
+                "field_gsl_org_number": 307954,
+                "field_gsl_org_number_rendered": 111974,
+                "gsl_feature_filter_list": 307954,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 307954,
+                "gsl_props_phone_rendered": "(800) 769-0045",
+                "gsl_props_web": 307954,
+                "gsl_props_web_rendered": "https:\/\/www.plannedparenthood.org\/planned-parenthood-great-northwest-hawaiian-islands||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3170703,
+                    47.6655966
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/planned-parenthood-great-northwest-and-hawaiian-islands-24\">Planned Parenthood of the Great Northwest and the Hawaiian Islands|<span class=\"name2\">University District Roosevelt Health Center<\/span><\/a>",
+                "description": "5020 Roosevelt Way NE Seattle, Washington 98105 ",
+                "nid": 307950,
+                "nid_rendered": 307950,
+                "field_gsl_org_number": 307950,
+                "field_gsl_org_number_rendered": 110974,
+                "gsl_feature_filter_list": 307950,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 307950,
+                "gsl_props_phone_rendered": "(800) 769-0045",
+                "gsl_props_web": 307950,
+                "gsl_props_web_rendered": "https:\/\/www.plannedparenthood.org\/planned-parenthood-great-northwest-hawaiian-islands||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6371283,
+                    47.6063632
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/planned-parenthood-great-northwest-and-hawaiian-islands-10\">Planned Parenthood of the Great Northwest and the Hawaiian Islands|<span class=\"name2\">Bremerton Health Center<\/span><\/a>",
+                "description": "723 NE Riddell Rd Bremerton, Washington 98310 ",
+                "nid": 307930,
+                "nid_rendered": 307930,
+                "field_gsl_org_number": 307930,
+                "field_gsl_org_number_rendered": 32461,
+                "gsl_feature_filter_list": 307930,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 307930,
+                "gsl_props_phone_rendered": "(800) 769-0045",
+                "gsl_props_web": 307930,
+                "gsl_props_web_rendered": "https:\/\/www.plannedparenthood.org\/planned-parenthood-great-northwest-hawaiian-islands||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3051455,
+                    47.6172914
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/planned-parenthood-great-northwest-and-hawaiian-islands-17\">Planned Parenthood of the Great Northwest and the Hawaiian Islands|<span class=\"name2\">Seattle Health Center<\/span><\/a>",
+                "description": "2001 E Madison St Seattle, Washington 98122 ",
+                "nid": 307926,
+                "nid_rendered": 307926,
+                "field_gsl_org_number": 307926,
+                "field_gsl_org_number_rendered": 6090,
+                "gsl_feature_filter_list": 307926,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 307926,
+                "gsl_props_phone_rendered": "(800) 769-0045",
+                "gsl_props_web": 307926,
+                "gsl_props_web_rendered": "https:\/\/www.plannedparenthood.org\/planned-parenthood-great-northwest-hawaiian-islands||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2096191,
+                    47.9754202
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/planned-parenthood-great-northwest-and-hawaiian-islands-7\">Planned Parenthood of the Great Northwest and the Hawaiian Islands|<span class=\"name2\">Everett Health Center<\/span><\/a>",
+                "description": "1509 32nd St Everett, Washington 98201 ",
+                "nid": 307928,
+                "nid_rendered": 307928,
+                "field_gsl_org_number": 307928,
+                "field_gsl_org_number_rendered": 6088,
+                "gsl_feature_filter_list": 307928,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 307928,
+                "gsl_props_phone_rendered": "(800) 769-0045",
+                "gsl_props_web": 307928,
+                "gsl_props_web_rendered": "https:\/\/www.plannedparenthood.org\/planned-parenthood-great-northwest-hawaiian-islands||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3198871,
+                    47.2893572
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/planned-parenthood-great-northwest-and-hawaiian-islands-12\">Planned Parenthood of the Great Northwest and the Hawaiian Islands|<span class=\"name2\">Federal Way Health Center<\/span><\/a>",
+                "description": "1105 S 348th St Federal Way, Washington 98003 ",
+                "nid": 307887,
+                "nid_rendered": 307887,
+                "field_gsl_org_number": 307887,
+                "field_gsl_org_number_rendered": 32463,
+                "gsl_feature_filter_list": 307887,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 307887,
+                "gsl_props_phone_rendered": "(800) 769-0045",
+                "gsl_props_web": 307887,
+                "gsl_props_web_rendered": "https:\/\/www.plannedparenthood.org\/planned-parenthood-great-northwest-hawaiian-islands||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1250835,
+                    47.2257058
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/planned-parenthood-great-northwest-and-hawaiian-islands-19\">Planned Parenthood of the Great Northwest and the Hawaiian Islands|<span class=\"name2\">Shelton Health Center<\/span><\/a>",
+                "description": "2505 Olympic Hwy N Shelton, Washington 98584 ",
+                "nid": 307888,
+                "nid_rendered": 307888,
+                "field_gsl_org_number": 307888,
+                "field_gsl_org_number_rendered": 32475,
+                "gsl_feature_filter_list": 307888,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 307888,
+                "gsl_props_phone_rendered": "(800) 769-0045",
+                "gsl_props_web": 307888,
+                "gsl_props_web_rendered": "https:\/\/www.plannedparenthood.org\/planned-parenthood-great-northwest-hawaiian-islands||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6259871,
+                    47.5670053
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/kitsap-public-health-district\">Kitsap Public Health District|<span class=\"name2\">Bremerton Clinic<\/span><\/a>",
+                "description": "345 6th St Bremerton, Washington 98337 ",
+                "nid": 307638,
+                "nid_rendered": 307638,
+                "field_gsl_org_number": 307638,
+                "field_gsl_org_number_rendered": 5656,
+                "gsl_feature_filter_list": 307638,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 307638,
+                "gsl_props_phone_rendered": "(360) 728-2235",
+                "gsl_props_web": 307638,
+                "gsl_props_web_rendered": "https:\/\/kitsappublichealth.org||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3246327,
+                    47.6139121
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/gay-city-health-project\">Gay City Health Project|<\/a>",
+                "description": "517 E Pike St Seattle, Washington 98122 ",
+                "nid": 307440,
+                "nid_rendered": 307440,
+                "field_gsl_org_number": 307440,
+                "field_gsl_org_number_rendered": 109740,
+                "gsl_feature_filter_list": 307440,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine,HEPATITIS TESTS*Free Hepatitis C Test, HIV TESTS*Free HIV Test, STD TESTS*Free STD Test",
+                "gsl_props_phone": 307440,
+                "gsl_props_phone_rendered": "(206) 860-6969",
+                "gsl_props_web": 307440,
+                "gsl_props_web_rendered": "https:\/\/www.gaycity.org||",
+                "fees": "lowcost,Donations Accepted,Free Hepatitis C Testing,Free HIV Testing,Free STD Testing,No Fee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3186759,
+                    47.6143897
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/lifelong\">Lifelong|<span class=\"name2\">Client Services Center<\/span><\/a>",
+                "description": "1016 E Pike St Seattle, Washington 98122 ",
+                "nid": 307167,
+                "nid_rendered": 307167,
+                "field_gsl_org_number": 307167,
+                "field_gsl_org_number_rendered": 174,
+                "gsl_feature_filter_list": 307167,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Rapid Blood HIV Test,HIV TESTS*Free HIV Test",
+                "gsl_props_phone": 307167,
+                "gsl_props_phone_rendered": "(206) 957-1600",
+                "gsl_props_web": 307167,
+                "gsl_props_web_rendered": "www.llaa.org||",
+                "fees": "lowcost,Donations Accepted,Free HIV Testing,No Fee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3105553,
+                    47.5990484
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/hepatitis-education-project\">Hepatitis Education Project|<\/a>",
+                "description": "1621 S Jackson St Seattle, Washington 98144 ",
+                "nid": 306653,
+                "nid_rendered": 306653,
+                "field_gsl_org_number": 306653,
+                "field_gsl_org_number_rendered": 110707,
+                "gsl_feature_filter_list": 306653,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Rapid Testing,HEPATITIS TESTS*Hepatitis C Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine,HEPATITIS TESTS*Free Hepatitis B Test, HEPATITIS TESTS*Free Hepatitis C Test",
+                "gsl_props_phone": 306653,
+                "gsl_props_phone_rendered": "(206) 732-0311",
+                "gsl_props_web": 306653,
+                "gsl_props_web_rendered": "www.hepeducation.org||",
+                "fees": "lowcost,Donations Accepted,Free Hepatitis B Testing,Free Hepatitis C Testing,No Fee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3560279,
+                    47.6255948
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/emerald-city-medical-arts\">Emerald City Medical Arts|<\/a>",
+                "description": "16 Roy St Seattle, Washington 98109 ",
+                "nid": 305275,
+                "nid_rendered": 305275,
+                "field_gsl_org_number": 305275,
+                "field_gsl_org_number_rendered": 35912,
+                "gsl_feature_filter_list": 305275,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 305275,
+                "gsl_props_phone_rendered": "(206) 281-1616",
+                "gsl_props_web": 305275,
+                "gsl_props_web_rendered": "http:\/\/www.co.cowlitz.wa.us\/hhs||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.791356,
+                    48.1043062
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/jefferson-county-public-health-1\">Jefferson County Public Health|<span class=\"name2\">Port Townsend Clinic<\/span><\/a>",
+                "description": "615 Sheridan Port Townsend, Washington 98368 ",
+                "nid": 304890,
+                "nid_rendered": 304890,
+                "field_gsl_org_number": 304890,
+                "field_gsl_org_number_rendered": 17929,
+                "gsl_feature_filter_list": 304890,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 304890,
+                "gsl_props_phone_rendered": "(360) 385-9400",
+                "gsl_props_web": 304890,
+                "gsl_props_web_rendered": "www.jeffersoncountypublichealth.org\/||",
+                "fees": "lowcost,Fee,Medicaid Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.288297,
+                    47.563136
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/people-color-against-aids-network\">People of Color Against AIDS Network|<span class=\"name2\">Seattle Office<\/span><\/a>",
+                "description": "4437 Rainier Ave S Seattle, Washington 98118 ",
+                "nid": 304622,
+                "nid_rendered": 304622,
+                "field_gsl_org_number": 304622,
+                "field_gsl_org_number_rendered": 5008,
+                "gsl_feature_filter_list": 304622,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Rapid Blood HIV Test,HIV TESTS*Free HIV Test",
+                "gsl_props_phone": 304622,
+                "gsl_props_phone_rendered": "(206) 322-7061",
+                "gsl_props_web": 304622,
+                "gsl_props_web_rendered": "www.pocaan.org||",
+                "fees": "lowcost,Donations Accepted,Free HIV Testing,No Fee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.203774,
+                    47.973816
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/evergreen-wellness-advocates-0\">Evergreen Wellness Advocates|<span class=\"name2\">Everett Office<\/span><\/a>",
+                "description": "3305 Oakes Ave Everett, Washington 98201 ",
+                "nid": 304491,
+                "nid_rendered": 304491,
+                "field_gsl_org_number": 304491,
+                "field_gsl_org_number_rendered": 112030,
+                "gsl_feature_filter_list": 304491,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,HIV TESTS*Free HIV Test",
+                "gsl_props_phone": 304491,
+                "gsl_props_phone_rendered": "(425) 219-4800",
+                "gsl_props_web": 304491,
+                "gsl_props_web_rendered": "http:\/\/ewadvocates.org||",
+                "fees": "lowcost,Donations Accepted,Free HIV Testing,No Fee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8944101,
+                    47.0399449
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/thurston-county-syringe-exchange-services\">Thurston County Syringe Exchange Services|<\/a>",
+                "description": "1000 Cherry St SE Olympia, Washington 98506 ",
+                "nid": 304005,
+                "nid_rendered": 304005,
+                "field_gsl_org_number": 304005,
+                "field_gsl_org_number_rendered": 112981,
+                "gsl_feature_filter_list": 304005,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Rapid Blood HIV Test",
+                "gsl_props_phone": 304005,
+                "gsl_props_phone_rendered": "(360) 709-3298",
+                "gsl_props_web": 304005,
+                "gsl_props_web_rendered": "https:\/\/www.co.thurston.wa.us\/health\/personalhealth\/clinics\/SyringeExchange.html||",
+                "fees": "lowcost,No Fee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3170977,
+                    47.6053732
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/center-multicultural-health\">Center for MultiCultural Health|<\/a>",
+                "description": "1120 E Terrace St Seattle, Washington 98122 ",
+                "nid": 303988,
+                "nid_rendered": 303988,
+                "field_gsl_org_number": 303988,
+                "field_gsl_org_number_rendered": 111152,
+                "gsl_feature_filter_list": 303988,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,HIV TESTS*Free HIV Test, STD TESTS*Free STD Test",
+                "gsl_props_phone": 303988,
+                "gsl_props_phone_rendered": "(206) 461-6910",
+                "gsl_props_web": 303988,
+                "gsl_props_web_rendered": "http:\/\/www.multi-culturalhealth.org||",
+                "fees": "lowcost,Donations Accepted,Free HIV Testing,Free STD Testing,No Fee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8438856,
+                    47.0521046
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/thurston-county-public-health-and-social-services-department\">Thurston County Public Health and Social Services Department|<\/a>",
+                "description": "412 Lilly Rd NE Olympia, Washington 98506 ",
+                "nid": 303967,
+                "nid_rendered": 303967,
+                "field_gsl_org_number": 303967,
+                "field_gsl_org_number_rendered": 2525,
+                "gsl_feature_filter_list": 303967,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Free Hepatitis C Test, HIV TESTS*Free HIV Test",
+                "gsl_props_phone": 303967,
+                "gsl_props_phone_rendered": "(360) 867-2500",
+                "gsl_props_web": 303967,
+                "gsl_props_web_rendered": "https:\/\/www.co.thurston.wa.us\/health||",
+                "fees": "lowcost,Fee,Free Hepatitis C Testing,Free HIV Testing,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3130362,
+                    47.6189808
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/seattle-area-support-groups-and-community-center\">Seattle Area Support Groups and Community Center|<\/a>",
+                "description": "115 15th Ave E Seattle, Washington 98112 ",
+                "nid": 302978,
+                "nid_rendered": 302978,
+                "field_gsl_org_number": 302978,
+                "field_gsl_org_number_rendered": 206,
+                "gsl_feature_filter_list": 302978,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Rapid Blood HIV Test,HIV TESTS*Free HIV Test",
+                "gsl_props_phone": 302978,
+                "gsl_props_phone_rendered": "(206) 322-2437",
+                "gsl_props_web": 302978,
+                "gsl_props_web_rendered": "sasgcc.org||",
+                "fees": "lowcost,Free HIV Testing,No Fee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.1831048,
+                    47.71393
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/evergreenhealth\">EvergreenHealth|<span class=\"name2\">Totem Lake Clinic<\/span><\/a>",
+                "description": "12710 Totem Lake Blvd NE Kirkland, Washington 98034 ",
+                "nid": 302762,
+                "nid_rendered": 302762,
+                "field_gsl_org_number": 302762,
+                "field_gsl_org_number_rendered": 32478,
+                "gsl_feature_filter_list": 302762,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 302762,
+                "gsl_props_phone_rendered": "(425) 821-4040",
+                "gsl_props_web": 302762,
+                "gsl_props_web_rendered": "https:\/\/www.evergreenhealth.com\/primary-care-lakeshore-totem-lake||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6360342,
+                    48.2984219
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/island-county-public-health\">Island County Public Health|<span class=\"name2\">Oak Harbor Clinic<\/span><\/a>",
+                "description": "1791 NE 1st Ave Oak Harbor, Washington 98277 ",
+                "nid": 302758,
+                "nid_rendered": 302758,
+                "field_gsl_org_number": 302758,
+                "field_gsl_org_number_rendered": 110094,
+                "gsl_feature_filter_list": 302758,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test",
+                "gsl_props_phone": 302758,
+                "gsl_props_phone_rendered": "(360) 240-5554",
+                "gsl_props_web": 302758,
+                "gsl_props_web_rendered": "www.islandcountywa.gov\/Health\/CFHS\/Pages\/Home.aspx||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3237221,
+                    47.6053622
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/public-health-seattle-and-king-county-0\">Public Health Seattle and King County|<span class=\"name2\">STD Clinic at Harborview Medical Center<\/span><\/a>",
+                "description": "908 Jefferson St Seattle, Washington 98104 ",
+                "nid": 302736,
+                "nid_rendered": 302736,
+                "field_gsl_org_number": 302736,
+                "field_gsl_org_number_rendered": 2511,
+                "gsl_feature_filter_list": 302736,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 302736,
+                "gsl_props_phone_rendered": "(206) 744-3590",
+                "gsl_props_web": 302736,
+                "gsl_props_web_rendered": "https:\/\/www.kingcounty.gov\/depts\/health\/communicable-diseases\/hiv-std\/patients\/clinic.aspx||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4053419,
+                    47.2170675
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/community-health-care-0\">Community Health Care|<span class=\"name2\">Eastside Family Medical Clinic<\/span><\/a>",
+                "description": "1708 E 44th St Tacoma, Washington 98404 ",
+                "nid": 302607,
+                "nid_rendered": 302607,
+                "field_gsl_org_number": 302607,
+                "field_gsl_org_number_rendered": 113064,
+                "gsl_feature_filter_list": 302607,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 302607,
+                "gsl_props_phone_rendered": "(253) 471-4553",
+                "gsl_props_web": 302607,
+                "gsl_props_web_rendered": "https:\/\/www.commhealth.org\/services\/medical-clinics\/eastside-family-medical-clinic||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5214387,
+                    47.1613789
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/community-health-care-1\">Community Health Care|<span class=\"name2\">Lakewood Family Medical Clinic<\/span><\/a>",
+                "description": "10510 Gravelly Lake Dr SW Lakewood, Washington 98499 ",
+                "nid": 302608,
+                "nid_rendered": 302608,
+                "field_gsl_org_number": 302608,
+                "field_gsl_org_number_rendered": 113065,
+                "gsl_feature_filter_list": 302608,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 302608,
+                "gsl_props_phone_rendered": "(253) 589-7030",
+                "gsl_props_web": 302608,
+                "gsl_props_web_rendered": "https:\/\/www.commhealth.org\/services\/medical-clinics\/lakewood||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4518308,
+                    47.2507734
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/community-health-care\">Community Health Care|<span class=\"name2\">Hilltop Family Medical Center<\/span><\/a>",
+                "description": "1202 Martin Luther King Jr Way Tacoma, Washington 98405 ",
+                "nid": 302606,
+                "nid_rendered": 302606,
+                "field_gsl_org_number": 302606,
+                "field_gsl_org_number_rendered": 113063,
+                "gsl_feature_filter_list": 302606,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 302606,
+                "gsl_props_phone_rendered": "(253) 722-1720",
+                "gsl_props_web": 302606,
+                "gsl_props_web_rendered": "https:\/\/www.commhealth.org\/services\/hivaids-services||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2838128,
+                    47.536817
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/international-community-health-services-0\">International Community Health Services|<span class=\"name2\">Holly Park Medical and Dental Clinic<\/span><\/a>",
+                "description": "3815 S Othello St Seattle, Washington 98118 ",
+                "nid": 302472,
+                "nid_rendered": 302472,
+                "field_gsl_org_number": 302472,
+                "field_gsl_org_number_rendered": 112542,
+                "gsl_feature_filter_list": 302472,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test",
+                "gsl_props_phone": 302472,
+                "gsl_props_phone_rendered": "(206) 788-3500",
+                "gsl_props_web": 302472,
+                "gsl_props_web_rendered": "https:\/\/www.ichs.com||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3221321,
+                    47.5962394
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/international-community-health-services\">International Community Health Services|<span class=\"name2\">International District Medical and Dental Clinic<\/span><\/a>",
+                "description": "720 8th Ave S Seattle, Washington 98104 ",
+                "nid": 302422,
+                "nid_rendered": 302422,
+                "field_gsl_org_number": 302422,
+                "field_gsl_org_number_rendered": 6131,
+                "gsl_feature_filter_list": 302422,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 302422,
+                "gsl_props_phone_rendered": "(206) 788-3700",
+                "gsl_props_web": 302422,
+                "gsl_props_web_rendered": "https:\/\/www.ichs.com||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4350806,
+                    47.2251656
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/tacoma-pierce-county-health-department\">Tacoma-Pierce County Health Department|<span class=\"name2\">Communicable Disease Control<\/span><\/a>",
+                "description": "3629 S D St Tacoma, Washington 98418 ",
+                "nid": 301911,
+                "nid_rendered": 301911,
+                "field_gsl_org_number": 301911,
+                "field_gsl_org_number_rendered": 6804,
+                "gsl_feature_filter_list": 301911,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 301911,
+                "gsl_props_phone_rendered": "(253) 798-6500",
+                "gsl_props_web": 301911,
+                "gsl_props_web_rendered": "https:\/\/www.tpchd.org||",
+                "fees": "lowcost,Fee,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3758907,
+                    47.5477476
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/neighborcare-health-5\">Neighborcare Health|<span class=\"name2\">High Point Clinic<\/span><\/a>",
+                "description": "6020 35th Ave SW Seattle, Washington 98126 ",
+                "nid": 301853,
+                "nid_rendered": 301853,
+                "field_gsl_org_number": 301853,
+                "field_gsl_org_number_rendered": 112526,
+                "gsl_feature_filter_list": 301853,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 301853,
+                "gsl_props_phone_rendered": "(206) 461-6950",
+                "gsl_props_web": 301853,
+                "gsl_props_web_rendered": "https:\/\/neighborcare.org\/clinics\/neighborcare-health-high-point||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3046041,
+                    47.6013103
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/seattle-childrens\">Seattle Childrens|<span class=\"name2\">Odessa Brown Childrens Clinic<\/span><\/a>",
+                "description": "2101 E Yesler Way Seattle, Washington 98122 ",
+                "nid": 301846,
+                "nid_rendered": 301846,
+                "field_gsl_org_number": 301846,
+                "field_gsl_org_number_rendered": 13081,
+                "gsl_feature_filter_list": 301846,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 301846,
+                "gsl_props_phone_rendered": "(206) 987-7210",
+                "gsl_props_web": 301846,
+                "gsl_props_web_rendered": "www.seattlechildrens.org\/contact\/odessa-brown\/||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.269242,
+                    47.5196191
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/neighborcare-health-1\">Neighborcare Health|<span class=\"name2\">Rainier Beach Clinic<\/span><\/a>",
+                "description": "9245 Rainier Ave S Seattle, Washington 98118 ",
+                "nid": 301850,
+                "nid_rendered": 301850,
+                "field_gsl_org_number": 301850,
+                "field_gsl_org_number_rendered": 112528,
+                "gsl_feature_filter_list": 301850,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 301850,
+                "gsl_props_phone_rendered": "(206) 722-8444",
+                "gsl_props_web": 301850,
+                "gsl_props_web_rendered": "www.neighborcare.org\/clinics\/neighborcare-health-rainier-beach||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3812239,
+                    47.6692002
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/neighborcare-health-3\">Neighborcare Health|<span class=\"name2\">Ballard Clinic<\/span><\/a>",
+                "description": "1753 NW 56th St Seattle, Washington 98107 ",
+                "nid": 301852,
+                "nid_rendered": 301852,
+                "field_gsl_org_number": 301852,
+                "field_gsl_org_number_rendered": 112524,
+                "gsl_feature_filter_list": 301852,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 301852,
+                "gsl_props_phone_rendered": "(206) 782-5939",
+                "gsl_props_web": 301852,
+                "gsl_props_web_rendered": "https:\/\/neighborcare.org\/clinics\/neighborcare-health-ballard||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3377139,
+                    47.6611526
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/neighborcare-health-0\">Neighborcare Health|<span class=\"name2\">45th Street Clinic<\/span><\/a>",
+                "description": "1629 N 45th St Seattle, Washington 98103 ",
+                "nid": 301840,
+                "nid_rendered": 301840,
+                "field_gsl_org_number": 301840,
+                "field_gsl_org_number_rendered": 6844,
+                "gsl_feature_filter_list": 301840,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 301840,
+                "gsl_props_phone_rendered": "(206) 633-3350",
+                "gsl_props_web": 301840,
+                "gsl_props_web_rendered": "www.neighborcare.org\/clinics\/neighborcare-health-45th-street||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4759969,
+                    47.2208255
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/pcaf-tacoma\">PCAF Tacoma|<\/a>",
+                "description": "3009 S 40th St Tacoma, Washington 98409 ",
+                "nid": 301137,
+                "nid_rendered": 301137,
+                "field_gsl_org_number": 301137,
+                "field_gsl_org_number_rendered": 110263,
+                "gsl_feature_filter_list": 301137,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Rapid Blood HIV Test,HIV TESTS*Free HIV Test",
+                "gsl_props_phone": 301137,
+                "gsl_props_phone_rendered": "(253) 383-2565",
+                "gsl_props_web": 301137,
+                "gsl_props_web_rendered": "http:\/\/www.piercecountyaids.org||",
+                "fees": "lowcost,Free HIV Testing,No Fee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2968136,
+                    47.7217911
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/neighborcare-health-6\">Neighborcare Health|<span class=\"name2\">Lake City Clinic<\/span><\/a>",
+                "description": "12721 30th Ave NE Seattle, Washington 98125 ",
+                "nid": 301132,
+                "nid_rendered": 301132,
+                "field_gsl_org_number": 301132,
+                "field_gsl_org_number_rendered": 112527,
+                "gsl_feature_filter_list": 301132,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 301132,
+                "gsl_props_phone_rendered": "(206) 417-0326",
+                "gsl_props_web": 301132,
+                "gsl_props_web_rendered": "https:\/\/neighborcare.org\/clinics\/lake-city||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3070284,
+                    47.6233559
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/country-doctor-community-health-centers-0\">Country Doctor Community Health Centers|<span class=\"name2\">Country Doctor Community Clinic<\/span><\/a>",
+                "description": "500 19th Ave E Seattle, Washington 98112-4007 ",
+                "nid": 301120,
+                "nid_rendered": 301120,
+                "field_gsl_org_number": 301120,
+                "field_gsl_org_number_rendered": 6842,
+                "gsl_feature_filter_list": 301120,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 301120,
+                "gsl_props_phone_rendered": "(206) 299-1600",
+                "gsl_props_web": 301120,
+                "gsl_props_web_rendered": "countrydoctor.org\/country-doctor-community-clinic\/||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3046041,
+                    47.6013103
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/country-doctor-community-health-centers\">Country Doctor Community Health Centers|<span class=\"name2\">Carolyn Downs Family Medical Center<\/span><\/a>",
+                "description": "2101 E Yesler Way Seattle, Washington 98122 ",
+                "nid": 301119,
+                "nid_rendered": 301119,
+                "field_gsl_org_number": 301119,
+                "field_gsl_org_number_rendered": 6839,
+                "gsl_feature_filter_list": 301119,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test",
+                "gsl_props_phone": 301119,
+                "gsl_props_phone_rendered": "(206) 299-1900",
+                "gsl_props_web": 301119,
+                "gsl_props_web_rendered": "https:\/\/countrydoctor.org\/carolyn-downs-fmc||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3426431,
+                    47.6107684
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/neighborcare-health\">Neighborcare Health|<span class=\"name2\">Pike Place Market Clinic<\/span><\/a>",
+                "description": "1930 Post Alley Seattle, Washington 98101 ",
+                "nid": 301117,
+                "nid_rendered": 301117,
+                "field_gsl_org_number": 301117,
+                "field_gsl_org_number_rendered": 603,
+                "gsl_feature_filter_list": 301117,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 301117,
+                "gsl_props_phone_rendered": "(206) 728-4143",
+                "gsl_props_web": 301117,
+                "gsl_props_web_rendered": "www.neighborcare.org\/clinics\/neighborcare-health-pike-place-market||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2185837,
+                    47.4808893
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/cedar-river-clinics-renton\">Cedar River Clinics - Renton|<span class=\"name2\">LGBT Wellness Services<\/span><\/a>",
+                "description": "263 Rainier Ave S Renton, Washington 98057 ",
+                "nid": 301130,
+                "nid_rendered": 301130,
+                "field_gsl_org_number": 301130,
+                "field_gsl_org_number_rendered": 109591,
+                "gsl_feature_filter_list": 301130,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test",
+                "gsl_props_phone": 301130,
+                "gsl_props_phone_rendered": "(425) 255-0471",
+                "gsl_props_web": 301130,
+                "gsl_props_web_rendered": "www.cedarriverclinics.org\/renton\/||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4506685,
+                    47.2487631
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/cedar-river-clinics-0\">Cedar River Clinics - Tacoma|<span class=\"name2\">LBGT Wellness Services<\/span><\/a>",
+                "description": "1401 Martin Luther King Way Tacoma, Washington 98405 ",
+                "nid": 301133,
+                "nid_rendered": 301133,
+                "field_gsl_org_number": 301133,
+                "field_gsl_org_number_rendered": 111866,
+                "gsl_feature_filter_list": 301133,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test",
+                "gsl_props_phone": 301133,
+                "gsl_props_phone_rendered": "(253) 473-6031",
+                "gsl_props_web": 301133,
+                "gsl_props_web_rendered": "www.cedarriverclinics.org\/tacoma\/||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2857993,
+                    47.5636604
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/neighborcare-health-2\">Neighborcare Health|<span class=\"name2\">Columbia City Clinic<\/span><\/a>",
+                "description": "4400 37th Ave S Seattle, Washington 98118 ",
+                "nid": 301114,
+                "nid_rendered": 301114,
+                "field_gsl_org_number": 301114,
+                "field_gsl_org_number_rendered": 2512,
+                "gsl_feature_filter_list": 301114,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 301114,
+                "gsl_props_phone_rendered": "(206) 461-6957",
+                "gsl_props_web": 301114,
+                "gsl_props_web_rendered": "https:\/\/neighborcare.org\/clinics\/neighborcare-health-columbia-city||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3349282,
+                    47.7055848
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/neighborcare-health-10\">Neighborcare Health|<span class=\"name2\">Meridian Center for Health<\/span><\/a>",
+                "description": "10521 Meridian Ave N Seattle, Washington 98133 ",
+                "nid": 301115,
+                "nid_rendered": 301115,
+                "field_gsl_org_number": 301115,
+                "field_gsl_org_number_rendered": 2519,
+                "gsl_feature_filter_list": 301115,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Herpes Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 301115,
+                "gsl_props_phone_rendered": "(206) 296-4990",
+                "gsl_props_web": 301115,
+                "gsl_props_web_rendered": "https:\/\/www.meridiancenterforhealth.org||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3179333,
+                    47.5972829
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/seattle-indian-health-board\">Seattle Indian Health Board|<span class=\"name2\">Healthcare Services<\/span><\/a>",
+                "description": "611 12th Ave S Seattle, Washington 98144 ",
+                "nid": 300465,
+                "nid_rendered": 300465,
+                "field_gsl_org_number": 300465,
+                "field_gsl_org_number_rendered": 9396,
+                "gsl_feature_filter_list": 300465,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test",
+                "gsl_props_phone": 300465,
+                "gsl_props_phone_rendered": "(206) 324-9360",
+                "gsl_props_web": 300465,
+                "gsl_props_web_rendered": "https:\/\/www.sihb.org\/||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,PrEP for uninsured,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6288194,
+                    47.5678048
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/peninsula-community-health-services\">Peninsula Community Health Services|<span class=\"name2\">Sixth Street Bremerton Medical Clinic<\/span><\/a>",
+                "description": "616 Sixth St Bremerton, Washington 98337 ",
+                "nid": 300439,
+                "nid_rendered": 300439,
+                "field_gsl_org_number": 300439,
+                "field_gsl_org_number_rendered": 112633,
+                "gsl_feature_filter_list": 300439,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test",
+                "gsl_props_phone": 300439,
+                "gsl_props_phone_rendered": "(360) 377-3776",
+                "gsl_props_web": 300439,
+                "gsl_props_web_rendered": "www.pchsweb.org\/locations\/sixth-street-bremerton-medical-clinic\/||",
+                "fees": "lowcost,Donations Accepted,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2006239,
+                    47.76092
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/healthpoint-2\">HealthPoint |<span class=\"name2\">Bothell Clinic<\/span><\/a>",
+                "description": "10414 Beardslee Blvd Bothell, Washington 98011 ",
+                "nid": 300362,
+                "nid_rendered": 300362,
+                "field_gsl_org_number": 300362,
+                "field_gsl_org_number_rendered": 112632,
+                "gsl_feature_filter_list": 300362,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 300362,
+                "gsl_props_phone_rendered": "(425) 486-0658",
+                "gsl_props_web": 300362,
+                "gsl_props_web_rendered": "http:\/\/www.healthpointchc.org\/health-centers\/bothell||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2118881,
+                    47.9773586
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/snohomish-health-district\">Snohomish Health District|<span class=\"name2\">Communicable Disease Division<\/span><\/a>",
+                "description": "3020 Rucker Ave Everett, Washington 98201 ",
+                "nid": 300368,
+                "nid_rendered": 300368,
+                "field_gsl_org_number": 300368,
+                "field_gsl_org_number_rendered": 6803,
+                "gsl_feature_filter_list": 300368,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,HIV TESTS*Free HIV Test, STD TESTS*Free STD Test",
+                "gsl_props_phone": 300368,
+                "gsl_props_phone_rendered": "(425) 339-5261",
+                "gsl_props_web": 300368,
+                "gsl_props_web_rendered": "http:\/\/www.snohd.org||",
+                "fees": "lowcost,Free HIV Testing,Free STD Testing,No Fee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8712941,
+                    47.0458311
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/pcaf-olympia\">PCAF Olympia|<\/a>",
+                "description": "2101 4th Ave E Olympia, Washington 98506 ",
+                "nid": 300369,
+                "nid_rendered": 300369,
+                "field_gsl_org_number": 300369,
+                "field_gsl_org_number_rendered": 7523,
+                "gsl_feature_filter_list": 300369,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,HIV TESTS*Rapid Blood HIV Test,HIV TESTS*Free HIV Test",
+                "gsl_props_phone": 300369,
+                "gsl_props_phone_rendered": "(360) 352-2375",
+                "gsl_props_web": 300369,
+                "gsl_props_web_rendered": "http:\/\/www.pcaf-wa.org||",
+                "fees": "lowcost,Donations Accepted,Free HIV Testing,No Fee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2295271,
+                    47.3818769
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/healthpoint-4\">HealthPoint |<span class=\"name2\">Kent Clinic<\/span><\/a>",
+                "description": "403 E Meeker St Kent, Washington 98030 ",
+                "nid": 300337,
+                "nid_rendered": 300337,
+                "field_gsl_org_number": 300337,
+                "field_gsl_org_number_rendered": 113168,
+                "gsl_feature_filter_list": 300337,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 300337,
+                "gsl_props_phone_rendered": "(253) 852-2866",
+                "gsl_props_web": 300337,
+                "gsl_props_web_rendered": "http:\/\/www.healthpointchc.org\/health-centers\/kent||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.306226,
+                    47.365147
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/healthpoint-5\">HealthPoint |<span class=\"name2\">Midway Clinic<\/span><\/a>",
+                "description": "26401 Pacific Highway S Kent, Washington 98198 ",
+                "nid": 300339,
+                "nid_rendered": 300339,
+                "field_gsl_org_number": 300339,
+                "field_gsl_org_number_rendered": 113170,
+                "gsl_feature_filter_list": 300339,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 300339,
+                "gsl_props_phone_rendered": "(206) 870-3590",
+                "gsl_props_web": 300339,
+                "gsl_props_web_rendered": "http:\/\/www.healthpointchc.org\/health-centers\/midway||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3179539,
+                    47.3019907
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/healthpoint-3\">HealthPoint |<span class=\"name2\">Federal Way Clinic<\/span><\/a>",
+                "description": "33431 13th Pl S Federal Way, Washington 98003 ",
+                "nid": 300344,
+                "nid_rendered": 300344,
+                "field_gsl_org_number": 300344,
+                "field_gsl_org_number_rendered": 29119,
+                "gsl_feature_filter_list": 300344,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*HPV Vaccine,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 300344,
+                "gsl_props_phone_rendered": "(253) 874-7634",
+                "gsl_props_web": 300344,
+                "gsl_props_web_rendered": "http:\/\/www.healthpointchc.org\/health-centers\/federal-way||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.295197,
+                    47.4859066
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/healthpoint-9\">HealthPoint |<span class=\"name2\">Tukwila Clinic<\/span><\/a>",
+                "description": "13030 Military Rd S Tukwila, Washington 98168 ",
+                "nid": 300342,
+                "nid_rendered": 300342,
+                "field_gsl_org_number": 300342,
+                "field_gsl_org_number_rendered": 113173,
+                "gsl_feature_filter_list": 300342,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 300342,
+                "gsl_props_phone_rendered": "(206) 439-3289",
+                "gsl_props_web": 300342,
+                "gsl_props_web_rendered": "http:\/\/www.healthpointchc.org\/health-centers\/tukwila||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.1235999,
+                    47.6793571
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/healthpoint-6\">HealthPoint |<span class=\"name2\">Redmond Clinic<\/span><\/a>",
+                "description": "16315 NE 87th St Redmond, Washington 98052 ",
+                "nid": 300338,
+                "nid_rendered": 300338,
+                "field_gsl_org_number": 300338,
+                "field_gsl_org_number_rendered": 113169,
+                "gsl_feature_filter_list": 300338,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 300338,
+                "gsl_props_phone_rendered": "(425) 882-1697",
+                "gsl_props_web": 300338,
+                "gsl_props_web_rendered": "http:\/\/www.healthpointchc.org\/health-centers\/redmond||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2148076,
+                    47.4816423
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/healthpoint-7\">HealthPoint |<span class=\"name2\">Renton Clinic<\/span><\/a>",
+                "description": "200 S 2nd St Renton, Washington 98057 ",
+                "nid": 300340,
+                "nid_rendered": 300340,
+                "field_gsl_org_number": 300340,
+                "field_gsl_org_number_rendered": 113171,
+                "gsl_feature_filter_list": 300340,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 300340,
+                "gsl_props_phone_rendered": "(425) 226-5536",
+                "gsl_props_web": 300340,
+                "gsl_props_web_rendered": "http:\/\/www.healthpointchc.org\/health-centers\/renton||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2824149,
+                    47.4346711
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/healthpoint-8\">HealthPoint |<span class=\"name2\">SeaTac Clinic<\/span><\/a>",
+                "description": "4040 S 188th St Seatac, Washington 98188 ",
+                "nid": 300341,
+                "nid_rendered": 300341,
+                "field_gsl_org_number": 300341,
+                "field_gsl_org_number_rendered": 113172,
+                "gsl_feature_filter_list": 300341,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 300341,
+                "gsl_props_phone_rendered": "(206) 277-7200",
+                "gsl_props_web": 300341,
+                "gsl_props_web_rendered": "http:\/\/www.healthpointchc.org\/health-centers\/seatac||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2275276,
+                    47.3088855
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/healthpoint-1\">HealthPoint |<span class=\"name2\">Auburn Clinic<\/span><\/a>",
+                "description": "126 Auburn Ave Auburn, Washington 98002 ",
+                "nid": 300336,
+                "nid_rendered": 300336,
+                "field_gsl_org_number": 300336,
+                "field_gsl_org_number_rendered": 113167,
+                "gsl_feature_filter_list": 300336,
+                "gsl_feature_filter_list_rendered": "HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine",
+                "gsl_props_phone": 300336,
+                "gsl_props_phone_rendered": "(253) 735-0166",
+                "gsl_props_web": 300336,
+                "gsl_props_web_rendered": "http:\/\/www.healthpointchc.org\/health-centers\/auburn||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6433809,
+                    48.3091562
+                ]
+            },
+            "properties": {
+                "name": "<a href=\"\/organization\/whidbeyhealth\">WhidbeyHealth|<span class=\"name2\">Primary Care Oak Harbor<\/span><\/a>",
+                "description": "1300 Goldie St Oak Harbor, Washington 98277 ",
+                "nid": 300284,
+                "nid_rendered": 300284,
+                "field_gsl_org_number": 300284,
+                "field_gsl_org_number_rendered": 112671,
+                "gsl_feature_filter_list": 300284,
+                "gsl_feature_filter_list_rendered": "HEPATITIS TESTS*Hepatitis B Test,HEPATITIS TESTS*Hepatitis C Test,HIV TESTS*Conventional Blood HIV Test,STD TESTS*Chlamydia Test,STD TESTS*Gonorrhea Test,STD TESTS*Syphilis Test,VACCINES*Hepatitis B Vaccine,VACCINES*Hepatitis A Vaccine,VACCINES*HPV Vaccine",
+                "gsl_props_phone": 300284,
+                "gsl_props_phone_rendered": "(360) 679-5590",
+                "gsl_props_web": 300284,
+                "gsl_props_web_rendered": "whidbeyhealth.org\/||",
+                "fees": "lowcost,Fee,Insurance Accepted,Medicaid Accepted,Medicare Accepted,Sliding Scale"
+            }
+        }
+    ]
+}
