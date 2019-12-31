@@ -1,4 +1,16 @@
 {
-    "plugins": ["@babel/plugin-transform-spread"]
-
-  }
+    "plugins": [
+        "@babel/plugin-transform-spread"
+    ],
+    "presets": [
+        [
+          "@babel/preset-env",
+          {
+            "modules": "commonjs",
+            "targets": {
+              "node": "current"
+            }
+          }
+        ]
+      ]
+}

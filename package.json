@@ -2,22 +2,27 @@
   "name": "besure-aggregator",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "handler.js",
   "scripts": {
-    "start": "node ./start.js",
+    "deploy": "serverless deploy",
+    "start": "node ./handler.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Matt Rigg",
-  "license": "ISC",
+  "license": "GPLv3",
   "dependencies": {
-    "axios": "^0.19.0",
-    "lodash": "^4.17.11",
-    "regenerator-runtime": "^0.13.3"
+    "aws-sdk": "^2.596.0",
+    "axios": "^0.19.0"
   },
   "devDependencies": {
+    "@babel/cli": "^7.7.7",
     "@babel/core": "^7.7.7",
     "@babel/plugin-transform-spread": "^7.7.4",
     "@babel/preset-env": "^7.7.7",
-    "@babel/register": "^7.7.7"
+    "babel-loader": "^8.0.6",
+    "serverless-offline": "^5.12.1",
+    "serverless-webpack": "^5.3.1",
+    "webpack": "^4.41.5",
+    "webpack-node-externals": "^1.7.2"
   }
 }
