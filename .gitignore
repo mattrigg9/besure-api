@@ -2,8 +2,7 @@
 node_modules
 /dist
 output.json
-package.zip
-/package
+/.serverless
 
 # local env files
 .env.local

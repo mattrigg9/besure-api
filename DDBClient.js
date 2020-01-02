@@ -1,14 +1,35 @@
 import AWS from 'aws-sdk';
 import config from './config';
 
+const DDBGeo = require('dynamodb-geo');
+
+const GEO_HASH_LENGTH = 4;
+
 class DDBClient {
   constructor(tableName) {
-    // DocumentClient abstracts away the notion of attribute values.
-    // https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/DynamoDB/DocumentClient.html
-    this.client = new AWS.DynamoDB.DocumentClient({
+    this.client = new AWS.DynamoDB({
       apiVersion: '2012-08-10',
-      region: config.region
+      region: process.env.AWS_REGION
     });
+
+    const ddbGeoConfig = new DDBGeo.GeoDataManagerConfiguration(this.client, tableName);
+
+    const {
+      hashKeyAttributeName,
+      rangeKeyAttributeName,
+      geohashAttributeName,
+      geohashIndexName
+    } = config.ddb;
+
+    Object.assign(ddbGeoConfig, {
+      hashKeyLength: GEO_HASH_LENGTH,
+      hashKeyAttributeName,
+      rangeKeyAttributeName,
+      geohashAttributeName,
+      geohashIndexName
+    });
+
+    this.geoTableManager = new DDBGeo.GeoDataManager(ddbGeoConfig);
     this.tableName = tableName;
   }
 
@@ -47,10 +68,26 @@ class DDBClient {
     return this.client.batchWrite(request).promise();
   }
 
-  async scanTable() {
+  batchWritePoints(points) {
+    return this.geoTableManager.batchWritePoints(points).promise();
+  }
+
+  getPoints(latitude, longitude, radius) {
+    return this.geoTableManager.queryRadius({
+      RadiusInMeter: radius,
+      CenterPoint: {
+        latitude,
+        longitude
+      }
+    });
+  }
+
+  async scanTable(FilterExpression, ExpressionAttributeValues) {
     const response = await this.client
       .scan({
         TableName: this.tableName,
+        FilterExpression,
+        ExpressionAttributeValues
       })
       .promise();
 

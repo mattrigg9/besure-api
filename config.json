@@ -1,0 +1,8 @@
+{
+    "ddb": {
+        "hashKeyAttributeName": "hashKey",
+        "rangeKeyAttributeName": "id",
+        "geohashAttributeName": "geohash",
+        "geohashIndexName": "geohashIndex"
+    }
+}
