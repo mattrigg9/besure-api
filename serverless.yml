@@ -51,13 +51,6 @@ functions:
                 latitude: true
                 longitude: true
                 radius: true
-  get:
-    handler: api/get.get
-    events:
-      - http:
-          path: clinic/{id}
-          method: GET
-          cors: true
 
 resources:
   Resources:
