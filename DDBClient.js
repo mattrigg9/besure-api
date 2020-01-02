@@ -56,15 +56,13 @@ class DDBClient {
   batchPut(items) {
     const request = {
       RequestItems: {
-        [this.tableName]: items.map((item) => {
-          return {
-            PutRequest: {
-              Item: item
-            }
+        [this.tableName]: items.map((item) => ({
+          PutRequest: {
+            Item: item
           }
-        })
+        }))
       }
-    }
+    };
     return this.client.batchWrite(request).promise();
   }
 
@@ -73,7 +71,6 @@ class DDBClient {
   }
 
   getPoints(latitude, longitude, radius) {
-    console.log("getPoints: ", latitude, longitude, radius);
     return this.geoTableManager.queryRadius({
       RadiusInMeter: radius,
       CenterPoint: {

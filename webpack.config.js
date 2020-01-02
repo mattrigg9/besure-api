@@ -8,7 +8,7 @@ module.exports = {
   externals: [nodeExternals()],
   mode: slsw.lib.webpack.isLocal ? 'development' : 'production',
   performance: {
-    hints: false,
+    hints: false
   },
   module: {
     rules: [
@@ -16,8 +16,8 @@ module.exports = {
         test: /\.js$/,
         loader: 'babel-loader',
         include: __dirname,
-        exclude: /node_modules/,
-      },
-    ],
-  },
+        exclude: /node_modules/
+      }
+    ]
+  }
 };
