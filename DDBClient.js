@@ -73,6 +73,7 @@ class DDBClient {
   }
 
   getPoints(latitude, longitude, radius) {
+    console.log("getPoints: ", latitude, longitude, radius);
     return this.geoTableManager.queryRadius({
       RadiusInMeter: radius,
       CenterPoint: {

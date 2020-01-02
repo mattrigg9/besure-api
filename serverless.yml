@@ -30,7 +30,9 @@ provider:
         - dynamodb:UpdateItem
         - dynamodb:DeleteItem
         - dynamodb:BatchWriteItem
-      Resource: "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.CLINIC_TABLE_NAME}"
+      Resource: 
+        - "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.CLINIC_TABLE_NAME}"
+        - "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.CLINIC_TABLE_NAME}/index/${self:custom.ddb.geohashIndexName}"
 
 functions:
   update-table:
@@ -41,7 +43,7 @@ functions:
       - http:
           path: clinics
           method: GET
-          reqValidatorName: ListClinicsRequestValidator
+          reqValidatorName: listClinicsRequestValidator
           cors: true
           request:
             parameters:
@@ -59,10 +61,12 @@ functions:
 
 resources:
   Resources:
-    ListClinicsRequestValidator:  
+    listClinicsRequestValidator:  
         Type: AWS::ApiGateway::RequestValidator
         Properties:
           Name: clinics-request-validator
+          RestApiId: 
+            Ref: ApiGatewayRestApi
           ValidateRequestBody: false
           ValidateRequestParameters: true
     ClinicTable:
@@ -88,7 +92,7 @@ resources:
             KeyType: RANGE
         LocalSecondaryIndexes:
           - 
-            IndexName: geohashIndex
+            IndexName: ${self:custom.ddb.geohashIndexName}
             KeySchema: 
               -
                 AttributeName: ${self:custom.ddb.hashKeyAttributeName}
