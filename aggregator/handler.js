@@ -10,11 +10,14 @@ module.exports.updateTable = async (data) => {
   const ddbClient = new DDBClient(process.env.CLINIC_TABLE_NAME);
 
   // Map incoming clinics into DDB put requests
-  const pointInputs = data.map((clinic) =>
-  // Use AWS.DynamoDB.Converter to marshall row data into DDB syntax
-  // https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/DynamoDB/Converter.html
+  const pointInputs = data.map((clinic) => {
+    // Use AWS.DynamoDB.Converter to marshall row data into DDB syntax
+    // https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/DynamoDB/Converter.html
+    if (clinic.website === '') {
+      clinic.website = null;
+    }
 
-    ({
+    return {
       RangeKeyValue: AWS.DynamoDB.Converter.input(clinic.id),
       GeoPoint: {
         latitude: clinic.latitude,
@@ -23,7 +26,8 @@ module.exports.updateTable = async (data) => {
       PutItemInput: {
         Item: AWS.DynamoDB.Converter.marshall(clinic)
       }
-    }));
+    };
+  });
 
   let currentBatch = 1;
   const resumeWriting = async () => {

@@ -1,47 +1,49 @@
 import Axios from 'axios';
-import { pause } from './utils';
+import { pause } from '../utils';
+const fs = require('fs');
 
 class CoordinateSquare {
-  constructor(upperLeftLimit, bottomRightLimit, squareSize) {
-    this.upperLeftLimit = upperLeftLimit;
-    this.bottomRightLimit = bottomRightLimit;
+  constructor(bottomLeftLimit, upperRightLimit, squareSize) {
+    this.bottomLeftLimit = bottomLeftLimit;
+    this.upperRightLimit = upperRightLimit;
     this.squareSize = squareSize;
 
-    this.upperLeftLat = upperLeftLimit[0];
-    this.upperLeftLong = upperLeftLimit[1];
+    this.bottomLeftLat = bottomLeftLimit[0];
+    this.bottomLeftLong = bottomLeftLimit[1];
   }
 
-  get bottomRightLat() {
-    return this.upperLeftLat + this.squareSize;
+  get upperRightLat() {
+    return this.bottomLeftLat + this.squareSize;
   }
 
-  get bottomRightLong() {
-    return this.upperLeftLong + this.squareSize;
+  get upperRightLong() {
+    return this.bottomLeftLong + this.squareSize;
   }
 
   moveHorizontally(units) {
-    this.upperLeftLong += (this.squareSize * units);
+    this.bottomLeftLong += (this.squareSize * units);
   }
 
   moveVertically(units) {
-    this.upperLeftLat += (this.squareSize * units);
+    this.bottomLeftLat += (this.squareSize * units);
   }
 
   resetHorizontal() {
-    this.upperLeftLong = upperLeftLimit[1];
+    this.bottomLeftLong = bottomLeftLimit[1];
   }
 
   endOfHorizontalLimit() {
-    return this.bottomRightLong >= this.bottomRightLimit[1];
+    return this.upperRightLong >= this.upperRightLimit[1];
   }
 
   endOfVerticalLimit() {
-    return this.bottomRightLat <= this.bottomRightLimit[0];
+    return this.upperRightLat >= this.upperRightLimit[0];
   }
 }
 
 const fetchClinics = async (coordinateSquare) => {
-  const url = `https://npin.cdc.gov/api/organization/gettested/json/${coordinateSquare.upperLeftLat}--${coordinateSquare.bottomRightLat}/${coordinateSquare.upperLeftLong}--${coordinateSquare.bottomRightLong}`;
+  //bottomLeftLAT, upperRightLAT -- bottomLeftLONG, upperRightLONG
+  const url = `https://npin.cdc.gov/api/organization/gettested/json/${coordinateSquare.bottomLeftLat}--${coordinateSquare.upperRightLat}/${coordinateSquare.bottomLeftLong}--${coordinateSquare.upperRightLong}`;
   console.log('url', url);
   const options = {
     method: 'get',
@@ -71,7 +73,7 @@ const cleanData = (features) => features.map((feature) => {
     address: feature.properties.description && feature.properties.description.toString().trim(),
     latitude: feature.geometry.coordinates[1],
     longitude: feature.geometry.coordinates[0],
-    phone: feature.properties.gsl_props_phone_rendered.replace && feature.properties.gsl_props_phone_rendered.replace(/\D/g, ''),
+    phone: feature.properties.gsl_props_phone_rendered && feature.properties.gsl_props_phone_rendered.replace && feature.properties.gsl_props_phone_rendered.replace(/\D/g, ''),
     website: cleanWebsite,
     ...getServices(feature.properties.gsl_feature_filter_list_rendered),
     ...getFees(feature.properties.fees)
@@ -138,18 +140,18 @@ const getFees = (feeString) => {
 };
 
 
-const upperLeftLimit = [47.88505764327357, -117.25743761175723];
-const bottomRightLimit = [24.33708401591122, -67.33708401595122];
-const SQUARE_SIZE = 5;
-const GUARDRAIL_LIMIT = 5;
-module.exports = async () => {
+const bottomLeftLimit = [23.459932, -126.405826];
+const upperRightLimit = [50.199775, -53.350108];
+const SQUARE_SIZE = 6;
+const GUARDRAIL_LIMIT = 900;
+module.exports.fetchClinics = async () => {
   let aggArray = [];
 
-  const coordinateSquare = new CoordinateSquare(upperLeftLimit, bottomRightLimit, SQUARE_SIZE);
+  const coordinateSquare = new CoordinateSquare(bottomLeftLimit, upperRightLimit, SQUARE_SIZE);
 
   for (let i = 0; i < GUARDRAIL_LIMIT; i++) {
     try {
-      console.log('coordinateSquare', coordinateSquare.upperLeftLat, coordinateSquare.upperLeftLong);
+      console.log(coordinateSquare.bottomLeftLat, coordinateSquare.bottomLeftLong);
       const randomTime = Math.floor(Math.random() * 10000);
       await pause(randomTime);
       const response = await fetchClinics(coordinateSquare);
@@ -161,7 +163,7 @@ module.exports = async () => {
       console.log('Error getting response from ', coordinateSquare, err);
     }
 
-    // Scan left to right, top to bottom across map
+    // Scan left to right, bottom to top across map
     if (coordinateSquare.endOfHorizontalLimit()) {
       // Reached end of row, move down one row and reset to first column of map
       console.log('Reached end of row, resetting column position');
@@ -173,11 +175,17 @@ module.exports = async () => {
       }
 
       coordinateSquare.resetHorizontal();
-      coordinateSquare.moveVertically(-1);
+      coordinateSquare.moveVertically(1);
     } else {
       coordinateSquare.moveHorizontally(1);
     }
   }
 
-  return aggArray;
+  fs.writeFile('./output.json', JSON.stringify(aggArray), function (err) {
+    if (err) {
+      console.error(err);
+      console.log(aggArray); // Backup stdout
+    }
+    console.log('The file was saved');
+  });
 };

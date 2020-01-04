@@ -35,6 +35,8 @@ provider:
         - "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.CLINIC_TABLE_NAME}/index/${self:custom.ddb.geohashIndexName}"
 
 functions:
+  fetch-clinics:
+    handler: aggregator/fetchClinics.fetchClinics
   update-table:
     handler: aggregator/handler.updateTable
   list:
