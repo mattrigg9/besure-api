@@ -1,0 +1,7 @@
+{
+    "queryStringParameters": {
+        "latitude": "47.74026",
+        "longitude": "-122.34722",
+        "radius": "10000"
+    }
+}

@@ -1,8 +1,10 @@
 import AWS from 'aws-sdk';
 import { ClientError, responsePayload } from './common';
+import { getDistance } from './utils';
 import DDBClient from '../DDBClient';
 
 const MAX_RADIUS_METERS = 100000; // ~62mi
+const MAX_RESULTS = 50;
 
 const validateRequest = (latitude, longitude, radius) => {
   if (!radius || radius >= MAX_RADIUS_METERS) {
@@ -26,13 +28,25 @@ module.exports.list = async (event) => {
 
     validateRequest(latitude, longitude, radius);
 
+    const distanceFromOrigin = (result) => getDistance(latitude, longitude, result.latitude, result.longitude);
+
     const ddbClient = new DDBClient(process.env.CLINIC_TABLE_NAME);
     const results = await ddbClient.getPoints(latitude, longitude, radius);
     console.log('Results: ', results.length);
 
-    // https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/DynamoDB/Converter.html
-    const unmarshalledResults = results.map(AWS.DynamoDB.Converter.unmarshall);
-    return responsePayload(200, { clinics: unmarshalledResults });
+    const resultsWithDistance = results.map(result => {
+      // https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/DynamoDB/Converter.html
+      const unmarshalledResult = AWS.DynamoDB.Converter.unmarshall(result);
+      return {
+        ...unmarshalledResult,
+        distance: distanceFromOrigin(unmarshalledResult)
+      }
+    });
+
+    // Sort results by distance from origin request
+    resultsWithDistance.sort((a, b) => a.distance - b.distance);
+
+    return responsePayload(200, { clinics: resultsWithDistance.slice(0, MAX_RESULTS) });
   } catch (error) {
     console.error(error);
 
