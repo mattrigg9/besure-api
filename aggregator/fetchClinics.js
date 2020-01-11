@@ -67,6 +67,7 @@ const cleanData = (features) => features.map((feature) => {
     cleanWebsite = `http://${cleanWebsite}`;
   }
 
+  const { tests, vaccines } = getTestsAndVaccines(feature.properties.gsl_feature_filter_list_rendered);
   return {
     id: feature.properties.nid,
     name: cleanName,
@@ -75,26 +76,30 @@ const cleanData = (features) => features.map((feature) => {
     longitude: feature.geometry.coordinates[0],
     phone: feature.properties.gsl_props_phone_rendered && feature.properties.gsl_props_phone_rendered.replace && feature.properties.gsl_props_phone_rendered.replace(/\D/g, ''),
     website: cleanWebsite,
-    ...getServices(feature.properties.gsl_feature_filter_list_rendered),
-    ...getFees(feature.properties.fees)
+    fees: getFees(feature.properties.fees),
+    tests,
+    vaccines
   };
 });
 
-const serviceTranslationMap = {
-  hivTest: 'conventional blood hiv test',
-  chlamydiaTest: 'chlamydia test',
-  gonorrheaTest: 'gonorrhea test',
-  syphilisTest: 'syphilis test',
-  hepBTest: 'hepatitis b test',
-  hepCTest: 'hepatitis c test',
-  rapidHIVTest: 'rapid blood hiv test',
-  herpesTest: 'herpes test',
-  hepBVaccineTest: 'hepatitis b vaccine',
-  hepAVaccineTest: 'hepatitis a vaccine',
-  hpvVaccineTest: 'hpv vaccine'
+const serviceMap = {
+  hiv: 'conventional blood hiv test',
+  chlamydia: 'chlamydia test',
+  gonorrhea: 'gonorrhea test',
+  syphilis: 'syphilis test',
+  hepB: 'hepatitis b test',
+  hepC: 'hepatitis c test',
+  rapidHIV: 'rapid blood hiv test',
+  herpes: 'herpes test'
 };
 
-const getServices = (serviceString) => {
+const vaccinesMap = {
+  hepB: 'hepatitis b vaccine',
+  hepA: 'hepatitis a vaccine',
+  hpv: 'hpv vaccine'
+}
+
+const getTestsAndVaccines = (serviceString) => {
   // Strip category headers from string
   const servicesArray = serviceString.toLowerCase().split(',').map((service) => {
     if (service.indexOf('*') >= 0) {
@@ -104,11 +109,16 @@ const getServices = (serviceString) => {
   });
 
   const cleanServices = {};
-  Object.keys(serviceTranslationMap).forEach((key) => {
-    cleanServices[key] = servicesArray.indexOf(serviceTranslationMap[key]) >= 0;
+  Object.keys(serviceMap).forEach((key) => {
+    cleanServices[key] = servicesArray.indexOf(serviceMap[key]) >= 0;
   });
 
-  return cleanServices;
+  const cleanVaccines = {};
+  Object.keys(vaccinesMap).forEach((key) => {
+    cleanVaccines[key] = servicesArray.indexOf(vaccinesMap[key]) >= 0;
+  });
+
+  return { tests: cleanServices, vaccines: cleanVaccines };
 };
 
 const feeTranslationMap = {
