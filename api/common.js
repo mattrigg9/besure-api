@@ -1,3 +1,5 @@
+import config from '../config';
+
 export class ClientError extends Error {
   constructor(message) {
     super(message);
@@ -7,7 +9,7 @@ export class ClientError extends Error {
 
 const responseHeaders = {
   'Content-Type': 'application/json',
-  'Access-Control-Allow-Origin': 'http://localhost:8080'
+  'Access-Control-Allow-Origin': '*' // TODO: Migrate to config
 }
 
 export const responsePayload = (statusCode, body) => ({
