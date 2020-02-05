@@ -1,5 +1,5 @@
 import AWS from 'aws-sdk';
-import config from './config';
+import envConfig from './env';
 
 const DDBGeo = require('dynamodb-geo');
 
@@ -19,7 +19,7 @@ class DDBClient {
       rangeKeyAttributeName,
       geohashAttributeName,
       geohashIndexName
-    } = config.ddb;
+    } = envConfig.ddb;
 
     Object.assign(ddbGeoConfig, {
       hashKeyLength: GEO_HASH_LENGTH,
@@ -33,22 +33,22 @@ class DDBClient {
     this.tableName = tableName;
   }
 
+  getItem(keyObj) {
+    const marshalledKey = AWS.DynamoDB.Converter.marshall(keyObj);
+
+    return this.client
+      .getItem({
+        TableName: this.tableName,
+        Key: marshalledKey
+      })
+      .promise();
+  }
+
   createItem(Item) {
     return this.client
       .put({
         TableName: this.tableName,
         Item
-      })
-      .promise();
-  }
-
-  deleteItem(keyName, key) {
-    return this.client
-      .delete({
-        TableName: this.tableName,
-        Key: {
-          [keyName]: key
-        }
       })
       .promise();
   }

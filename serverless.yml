@@ -1,4 +1,4 @@
-service: besure-backend
+service: clinic-finder-backend
 
 plugins:
   - serverless-webpack
@@ -9,8 +9,13 @@ custom:
   clinicTableName: clinics
   webpack:
     webpackConfig: ./webpack.config.js
-    includeModules: true
-  ddb: ${file(./config.json):ddb}
+    includeModules:
+      forceExclude:
+        - aws-sdk
+      forceInclude:
+        - axios
+        - dynamodb-geo
+  ddb: ${file(./env.json):ddb}
 
 provider:
   name: aws
@@ -39,13 +44,25 @@ functions:
     handler: aggregator/fetchClinics.fetchClinics
   update-table:
     handler: aggregator/handler.updateTable
+  get:
+    handler: api/get.get
+    events:
+      - http:
+          path: clinics/{clinicId}
+          method: GET
+          reqValidatorName: clinicsRequestValidator
+          cors: true
+          request:
+            parameters:
+              paths:
+                clinicId: true
   list:
     handler: api/list.list
     events:
       - http:
           path: clinics
           method: GET
-          reqValidatorName: listClinicsRequestValidator
+          reqValidatorName: clinicsRequestValidator
           cors: true
           request:
             parameters:
@@ -56,7 +73,7 @@ functions:
 
 resources:
   Resources:
-    listClinicsRequestValidator:  
+    clinicsRequestValidator:  
         Type: AWS::ApiGateway::RequestValidator
         Properties:
           Name: clinics-request-validator

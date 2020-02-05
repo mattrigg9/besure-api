@@ -1,7 +1,7 @@
 import betaConfig from './beta.env';
 import productionConfig from './production.env';
 
-const environmentConfigs: { [key: string]: any } = {
+const environmentConfigs = {
   beta: betaConfig,
   production: productionConfig,
   development: betaConfig,

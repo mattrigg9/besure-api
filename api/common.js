@@ -9,7 +9,7 @@ export class ClientError extends Error {
 
 const responseHeaders = {
   'Content-Type': 'application/json',
-  'Access-Control-Allow-Origin': '*' // TODO: Migrate to config
+  'Access-Control-Allow-Origin': config.CORS_DOMAIN
 }
 
 export const responsePayload = (statusCode, body) => ({
