@@ -1,25 +1,31 @@
 import AWS from 'aws-sdk';
 import { ClientError, responsePayload } from './common';
+import env from '../env.json';
 import DDBClient from '../DDBClient';
 
-const validateRequest = (clinicId) => {
-  if (!clinicId || Number.isNaN(clinicId)) {
+const ID_KEY_NAME = 'id';
+const ID_IDEX_NAME = env.ddb.idIndexName;
+
+const validateRequest = ({ clinicId }) => {
+  if (!clinicId || Number.isNaN(Number(clinicId))) {
     throw new ClientError(`Invalid clinicId: ${clinicId}`);
   }
 };
 
 module.exports.get = async (event) => {
   try {
-    const clinicId = Number(event.queryStringParameters.clinicId);
+    validateRequest(event.pathParameters);
 
-    validateRequest(clinicId);
+    const clinicId = Number(event.pathParameters.clinicId);
 
     const ddbClient = new DDBClient(process.env.CLINIC_TABLE_NAME);
-    const result = await ddbClient.getItem({ id: clinicId });
+    const result = await ddbClient.query(ID_KEY_NAME, clinicId, ID_IDEX_NAME);
 
-    console.log('Result: ', result);
+    console.log('Result from table: ', result);
 
-    const unmarshalledResult = AWS.DynamoDB.Converter.unmarshall(result);
+    if (!result.length) throw new Error(`Clinic with ID ${clinicId} could not be found.`);
+
+    const unmarshalledResult = AWS.DynamoDB.Converter.unmarshall(result[0]);
 
     return responsePayload(200, { clinic: unmarshalledResult });
   } catch (error) {

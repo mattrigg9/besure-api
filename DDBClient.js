@@ -80,6 +80,23 @@ class DDBClient {
     });
   }
 
+  // TODO: Support more than one condition expression
+  async query(field, value, IndexName) {
+    const marshalledValue = AWS.DynamoDB.Converter.input(value);
+
+    const params = {
+      ExpressionAttributeValues: {
+        ':attr': marshalledValue
+      },
+      KeyConditionExpression: `${field} = :attr`,
+      TableName: this.tableName,
+      IndexName
+    };
+
+    const response = await this.client.query(params).promise();
+    return response.Items;
+  }
+
   async scanTable(FilterExpression, ExpressionAttributeValues) {
     const response = await this.client
       .scan({
