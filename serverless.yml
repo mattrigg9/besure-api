@@ -22,9 +22,11 @@ provider:
   region: us-west-2
   runtime: nodejs12.x
   profile: besure
+  stage: ${opt:stage, 'beta'}
   timeout: 10
   environment:
-    CLINIC_TABLE_NAME: ${self:custom.clinicTableName}-${opt:stage, self:provider.stage}
+    CLINIC_TABLE_NAME: ${self:custom.clinicTableName}-${self:provider.stage}
+    NODE_ENV: ${self:provider.stage}
   iamRoleStatements:
     - Effect: Allow
       Action:

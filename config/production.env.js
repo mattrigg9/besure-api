@@ -1,3 +1,3 @@
 export default {
-  CORS_DOMAIN: 'knowmystat.us'
+  CORS_DOMAIN: 'https://knowmystat.us'
 };
