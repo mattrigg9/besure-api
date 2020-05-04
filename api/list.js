@@ -1,5 +1,5 @@
 import AWS from 'aws-sdk';
-import { ClientError, responsePayload } from './common';
+import { ClientError, responsePayload, cleanClinicResult } from './common';
 import { getDistance } from './utils';
 import DDBClient from '../DDBClient';
 
@@ -37,8 +37,9 @@ module.exports.list = async (event) => {
     const resultsWithDistance = results.map(result => {
       // https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/DynamoDB/Converter.html
       const unmarshalledResult = AWS.DynamoDB.Converter.unmarshall(result);
+      const cleanedClinic = cleanClinicResult(unmarshalledResult);
       return {
-        ...unmarshalledResult,
+        ...cleanedClinic,
         distance: distanceFromOrigin(unmarshalledResult)
       }
     });

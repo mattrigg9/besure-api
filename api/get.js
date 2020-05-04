@@ -1,5 +1,5 @@
 import AWS from 'aws-sdk';
-import { ClientError, responsePayload } from './common';
+import { ClientError, responsePayload, cleanClinicResult } from './common';
 import env from '../env.json';
 import DDBClient from '../DDBClient';
 
@@ -26,8 +26,9 @@ module.exports.get = async (event) => {
     if (!result.length) throw new Error(`Clinic with ID ${clinicId} could not be found.`);
 
     const unmarshalledResult = AWS.DynamoDB.Converter.unmarshall(result[0]);
+    const cleanedClinic = cleanClinicResult(unmarshalledResult);
 
-    return responsePayload(200, { clinic: unmarshalledResult });
+    return responsePayload(200, { clinic: cleanedClinic });
   } catch (error) {
     console.error(error);
 
