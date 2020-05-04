@@ -1,7 +1,7 @@
 import AWS from 'aws-sdk';
 import { ClientError, responsePayload, cleanClinicResult } from './common';
 import { getDistance } from './utils';
-import DDBClient from '../DDBClient';
+import DDBClient from './ddbClient';
 
 const MAX_RADIUS_METERS = 100000; // ~62mi
 const MAX_RESULTS = 50;

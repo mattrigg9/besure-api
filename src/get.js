@@ -1,7 +1,7 @@
 import AWS from 'aws-sdk';
 import { ClientError, responsePayload, cleanClinicResult } from './common';
 import env from '../env.json';
-import DDBClient from '../DDBClient';
+import DDBClient from './ddbClient';
 
 const ID_KEY_NAME = 'id';
 const ID_IDEX_NAME = env.ddb.idIndexName;

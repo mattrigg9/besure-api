@@ -33,22 +33,14 @@ provider:
         - dynamodb:Query
         - dynamodb:Scan
         - dynamodb:GetItem
-        - dynamodb:PutItem
-        - dynamodb:UpdateItem
-        - dynamodb:DeleteItem
-        - dynamodb:BatchWriteItem
       Resource: 
         - "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.CLINIC_TABLE_NAME}"
         - "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.CLINIC_TABLE_NAME}/index/${self:custom.ddb.geohashIndexName}"
         - "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.CLINIC_TABLE_NAME}/index/${self:custom.ddb.idIndexName}"
 
 functions:
-  fetch-clinics:
-    handler: aggregator/fetchClinics.fetchClinics
-  update-table:
-    handler: aggregator/handler.updateTable
   get:
-    handler: api/get.get
+    handler: src/get.get
     events:
       - http:
           path: clinics/{clinicId}
@@ -60,7 +52,7 @@ functions:
               paths:
                 clinicId: true
   list:
-    handler: api/list.list
+    handler: src/list.list
     events:
       - http:
           path: clinics
