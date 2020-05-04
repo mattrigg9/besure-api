@@ -1,5 +1,5 @@
 import AWS from 'aws-sdk';
-import envConfig from './env';
+import envConfig from '../env';
 
 const DDBGeo = require('dynamodb-geo');
 
