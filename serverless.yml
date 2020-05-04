@@ -13,7 +13,6 @@ custom:
       forceExclude:
         - aws-sdk
       forceInclude:
-        - axios
         - dynamodb-geo
   ddb: ${file(./env.json):ddb}
 
