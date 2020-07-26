@@ -1,12 +1,19 @@
 import AWS from 'aws-sdk';
-import { ClientError, responsePayload, cleanClinicResult } from './common';
-import { getDistance } from './utils';
+import { APIGatewayProxyEvent, APIGatewayProxyResult } from 'aws-lambda';
+import { ClientError, responsePayload } from './common';
 import DDBClient from './ddbClient';
+import Clinic from './models/Clinic';
 
 const MAX_RADIUS_METERS = 100000; // ~62mi
 const MAX_RESULTS = 50;
 
-const validateRequest = (latitude, longitude, radius) => {
+type ClinicWithDistance = Clinic & { distance: number };
+
+const validateRequest = (
+  latitude: number,
+  longitude: number,
+  radius: number
+) => {
   if (!radius || radius >= MAX_RADIUS_METERS) {
     throw new ClientError(`Invalid radius: ${radius}`);
   }
@@ -20,34 +27,40 @@ const validateRequest = (latitude, longitude, radius) => {
   }
 };
 
-module.exports.list = async (event) => {
+export const list = async (
+  event: APIGatewayProxyEvent
+): Promise<APIGatewayProxyResult> => {
   try {
+    if (!event.queryStringParameters)
+      throw new ClientError('No parameters specified');
     const latitude = Number.parseFloat(event.queryStringParameters.latitude);
     const longitude = Number.parseFloat(event.queryStringParameters.longitude);
     const radius = Number.parseFloat(event.queryStringParameters.radius);
 
     validateRequest(latitude, longitude, radius);
 
-    const distanceFromOrigin = (result) => getDistance(latitude, longitude, result.latitude, result.longitude);
-
     const ddbClient = new DDBClient(process.env.CLINIC_TABLE_NAME);
     const results = await ddbClient.getPoints(latitude, longitude, radius);
-    console.log('Results: ', results.length);
+    console.log('Result count: ', results.length);
 
-    const resultsWithDistance = results.map(result => {
-      // https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/DynamoDB/Converter.html
-      const unmarshalledResult = AWS.DynamoDB.Converter.unmarshall(result);
-      const cleanedClinic = cleanClinicResult(unmarshalledResult);
-      return {
-        ...cleanedClinic,
-        distance: distanceFromOrigin(unmarshalledResult)
+    const resultsWithDistance: ClinicWithDistance[] = results.map(
+      (result: AWS.DynamoDB.AttributeMap) => {
+        // https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/DynamoDB/Converter.html
+        const unmarshalledResult = AWS.DynamoDB.Converter.unmarshall(result);
+        const clinic = new Clinic(unmarshalledResult);
+        return {
+          ...clinic,
+          distance: clinic.getDistance(latitude, longitude),
+        };
       }
-    });
+    );
 
     // Sort results by distance from origin request
     resultsWithDistance.sort((a, b) => a.distance - b.distance);
 
-    return responsePayload(200, { clinics: resultsWithDistance.slice(0, MAX_RESULTS) });
+    return responsePayload(200, {
+      clinics: resultsWithDistance.slice(0, MAX_RESULTS),
+    });
   } catch (error) {
     console.error(error);
 

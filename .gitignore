@@ -9,6 +9,12 @@ output.json
 .env.local
 .env.*.local
 
+# tsc build files
+*.js
+*.js.map
+!.eslintrc.js
+*.d.ts
+
 # Log files
 npm-debug.log*
 yarn-debug.log*
