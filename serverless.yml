@@ -19,23 +19,26 @@ custom:
 provider:
   name: aws
   region: us-west-2
-  runtime: nodejs12.x
+  runtime: nodejs14.x
   profile: besure
   stage: ${opt:stage, 'beta'}
   timeout: 10
   environment:
     CLINIC_TABLE_NAME: ${self:custom.clinicTableName}-${self:provider.stage}
     NODE_ENV: ${self:provider.stage}
-  iamRoleStatements:
-    - Effect: Allow
-      Action:
-        - dynamodb:Query
-        - dynamodb:Scan
-        - dynamodb:GetItem
-      Resource: 
-        - "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.CLINIC_TABLE_NAME}"
-        - "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.CLINIC_TABLE_NAME}/index/${self:custom.ddb.geohashIndexName}"
-        - "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.CLINIC_TABLE_NAME}/index/${self:custom.ddb.idIndexName}"
+  lambdaHashingVersion: "20201221"
+  iam:
+    role:
+      statements:
+        - Effect: Allow
+          Action:
+            - dynamodb:Query
+            - dynamodb:Scan
+            - dynamodb:GetItem
+          Resource: 
+            - "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.CLINIC_TABLE_NAME}"
+            - "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.CLINIC_TABLE_NAME}/index/${self:custom.ddb.geohashIndexName}"
+            - "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.CLINIC_TABLE_NAME}/index/${self:custom.ddb.idIndexName}"
 
 functions:
   get:
