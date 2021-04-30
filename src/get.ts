@@ -12,7 +12,7 @@ import { Dictionary } from './types';
 const ID_KEY_NAME = 'id';
 const ID_IDEX_NAME = env.ddb.idIndexName;
 
-const validateRequest = (pathParameters: Dictionary<string> | null) => {
+const validateRequest = (pathParameters: Dictionary<string | undefined> | null) => {
   if (!pathParameters) throw new ClientError('No parameters specified');
   const { clinicId } =  pathParameters;
   if (!clinicId || Number.isNaN(Number(clinicId))) {
