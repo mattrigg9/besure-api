@@ -12,25 +12,25 @@
   "author": "Matt Rigg",
   "license": "GPLv3",
   "dependencies": {
-    "aws-sdk": "^2.720.0",
+    "aws-sdk": "^2.896.0",
     "dynamodb-geo": "^0.4.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.10.5",
-    "@babel/core": "^7.10.5",
-    "@babel/plugin-transform-spread": "^7.10.4",
-    "@babel/preset-env": "^7.10.4",
-    "@types/aws-lambda": "^8.10.59",
-    "babel-loader": "^8.1.0",
-    "eslint": "^7.5.0",
-    "eslint-config-airbnb-base": "^14.2.0",
-    "eslint-plugin-import": "^2.22.0",
+    "@babel/cli": "^7.13.16",
+    "@babel/core": "^7.14.0",
+    "@babel/plugin-transform-spread": "^7.13.0",
+    "@babel/preset-env": "^7.14.0",
+    "@types/aws-lambda": "^8.10.76",
+    "babel-loader": "^8.2.2",
+    "eslint": "^7.25.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
     "serverless-aws-documentation": "^1.1.0",
-    "serverless-offline": "^6.5.0",
-    "serverless-reqvalidator-plugin": "^1.0.3",
-    "serverless-webpack": "^5.3.3",
-    "typescript": "^3.9.7",
-    "webpack": "^4.44.0",
-    "webpack-node-externals": "^2.5.0"
+    "serverless-offline": "^6.9.0",
+    "serverless-reqvalidator-plugin": "^1.0.4",
+    "serverless-webpack": "^5.4.2",
+    "typescript": "^3.9.9",
+    "webpack": "^4.46.0",
+    "webpack-node-externals": "^2.5.2"
   }
 }
